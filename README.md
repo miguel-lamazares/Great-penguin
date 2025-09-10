@@ -1,6 +1,6 @@
 # let's let your terminal nicely 🐧
 
-Frist set one language
+### Frist set one language
 
 <div align="center" id="flags"> 
 <a href="language/EN.md">
