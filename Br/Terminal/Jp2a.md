@@ -18,8 +18,8 @@ sudo pacman -S jp2a
 ```
 ## Como usar
 
-funcionando em seu terminal, insira ```c jp2a ``` adicione o endereco do arquivo ou link, por fim caso desejar algum parametro como cores ou tamanho adicione ```c --(parametro) ```.
-```c exemplo: jp2a --width=50 /caminho/Spain.png --colors ```.
+funcionando em seu terminal, insira ``` jp2a ``` adicione o endereco do arquivo ou link, por fim caso desejar algum parametro como cores ou tamanho adicione ``` --(parametro) ```.
+``` exemplo: jp2a --width=50 /caminho/Spain.png --colors ```.
 
 ### Comando Básicos
 ```c
@@ -57,7 +57,7 @@ jp2a --version                      # Mostra versão do programa
 ```
 
 
-Consulte em seu terminal com o comando ```c jp2a --help `` ou no <a href="https://github.com/cslarsen/jp2a">repositório oficial no GitHub</a> para documentação completa.
+Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https://github.com/cslarsen/jp2a">repositório oficial no GitHub</a> para documentação completa.
 
 
 ```c
