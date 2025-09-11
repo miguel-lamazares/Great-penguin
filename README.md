@@ -4,7 +4,7 @@
 
 <div align="center" id="flags"> 
 <a href="En/EN.md">
-<img width="80" height="60" src="imgs/UK.svg">
+<img width="80" height="60" src="imgs/USA.png">
 </a>
 <a href="Br/BR.md">
 <img width="80" height="60" src="imgs/Brasil.png">
