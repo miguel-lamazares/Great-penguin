@@ -18,3 +18,11 @@ sudo pacman -S fastfetch
 ```
 
 ## Como usar 🔍
+
+Para utilizar o ```FastFetch```, basta execultar o seguinte comando ```fastfatch```, consultar outros comandos, utilize ```fastfetch --help```.
+
+### Customização 🚀
+
+Use ```fastfetch --gen-config``` para gerar um arquivo de configuração padrão.
+
+Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https://github.com/cslarsen/jp2a">repositório oficial no GitHub</a> para documentação completa.
