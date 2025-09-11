@@ -10,6 +10,6 @@
 <img width="75" height="100px" src="imgs/Brasil.png">
 </a>
 <a href="Es/ES.md">
-<img width="80" height="80" src="imgs/Spain.svg">
+<img width="80" height="80px" src="imgs/Spain.svg">
 </a>
 </div>
