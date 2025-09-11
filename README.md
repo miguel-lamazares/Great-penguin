@@ -4,12 +4,12 @@
 
 <div align="center" id="flags"> 
 <a href="En/EN.md">
-<img width="80" heigth="80" src="imgs/USA.jpeg">
+<img width="80" heigth="80" src="imgs/UK.svg">
 </a>
 <a href="Br/BR.md">
-<img width="80" heigth="80" src="imgs/Brasil.jpeg">
+<img width="80" heigth="80" src="imgs/Brasil.png">
 </a>
 <a href="Es/ES.md">
-<img width="80" heigth="80" src="imgs/Spain.jpeg">
+<img width="80" heigth="80" src="imgs/Spain.svg">
 </a>
 </div>
