@@ -16,12 +16,12 @@ sudo dnf install jp2a
 Arch
 sudo pacman -S jp2a
 ```
-## Como usar
+## Como usar 🔍
 
 funcionando em seu terminal, insira ``` jp2a ``` adicione o endereco do arquivo ou link, por fim caso desejar algum parametro como cores ou tamanho adicione ``` --(parametro) ```.
 ``` exemplo: jp2a --width=50 /caminho/Spain.png --colors ```.
 
-### Comando Básicos
+### Comando Básicos 🧰
 ```c
 jp2a imagem.jpg                     # Conversão básica
 jp2a --width=80 imagem.jpg          # Largura personalizada
@@ -29,20 +29,20 @@ jp2a --height=25 imagem.jpg         # Altura personalizada
 jp2a --size=full imagem.jpg         # Usa largura total do terminal
 jp2a --size=half imagem.jpg         # Usa metade da largura do terminal
 ```
-### Comandos de Cores
+### Comandos de Cores 🖌️
 ```c
 jp2a --colors imagem.jpg            # Saída colorida
 jp2a --bg=dark imagem.jpg           # Fundo escuro (otimização)
 jp2a --bg=light imagem.jpg          # Fundo claro (otimização)
 jp2a --invert imagem.jpg            # Inverte cores
 ```
-### Comandos de Saída
+### Comandos de Saída 🖨️
 ```c
 jp2a --output=arte.txt imagem.jpg   # Salva em arquivo
 jp2a --html imagem.jpg > page.html  # Saída em formato HTML
 jp2a --ansi imagem.jpg              # Saída com códigos ANSI
 ```
-### Comandos de Personalização
+### Comandos de Personalização 🧩
 ```c
 jp2a --chars="@#%&*+=-:. " imagem.jpg  # Caracteres personalizados
 jp2a --fill=LADO imagem.jpg          # Preenchimento lateral
@@ -50,7 +50,7 @@ jp2a --border imagem.jpg            # Adiciona borda
 jp2a --flipx imagem.jpg             # Espelha horizontalmente
 jp2a --flipy imagem.jpg             # Espelha verticalmente
 ```
-### Comandos de Ajuda
+### Comandos de Ajuda ❓
 ```c
 jp2a --help                         # Mostra ajuda completa
 jp2a --version                      # Mostra versão do programa
