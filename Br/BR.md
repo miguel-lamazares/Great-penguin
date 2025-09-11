@@ -27,7 +27,7 @@
 
 <div id="Kitty" align="center">
     <a href="Util/Kitty.md">
-        <img width="50" src="/imgs/Kitty.svg"
+        <img width="50" src="/imgs/kitty.svg"
         alt="Spi logo"><br>
         <span style="display:block;
         text-align:center;">Terminal Kitty</span>
