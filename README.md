@@ -1,6 +1,6 @@
 # let's let your terminal nicely and util 🐧
 
-<div id="SetALanguage"> <h3>Frist set one language</h> </div>
+<div align="center" id="SetALanguage"> <h3>First set one language</h3> </div>
 
 <div align="center" id="flags"> 
 <a href="En/EN.md">
