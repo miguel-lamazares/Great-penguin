@@ -1,6 +1,6 @@
 # Jp2a 🎨
 
-O ```c jp2a ``` é um software de linha de comando (CLI) projetado para converter imagens digitais, nos formatos mais comuns (tais como JPEG, PNG, GIF, entre outros), em representações de arte ASCII diretamente no terminal ou em arquivos de texto. Sua funcionalidade central consiste em analisar os pixels de uma imagem, mapear seus valores de brilho e cor para um conjunto de caracteres de texto e, opcionalmente, utilizar códigos de escape ANSI para incorporar cores, resultando em uma versão aproximada da imagem original composta inteiramente por caracteres.
+O ``` jp2a ``` é um software de linha de comando (CLI) projetado para converter imagens digitais, nos formatos mais comuns (tais como JPEG, PNG, GIF, entre outros), em representações de arte ASCII diretamente no terminal ou em arquivos de texto. Sua funcionalidade central consiste em analisar os pixels de uma imagem, mapear seus valores de brilho e cor para um conjunto de caracteres de texto e, opcionalmente, utilizar códigos de escape ANSI para incorporar cores, resultando em uma versão aproximada da imagem original composta inteiramente por caracteres.
 
 ## Como instalar 🛠
 
@@ -18,8 +18,13 @@ sudo pacman -S jp2a
 ```
 ## Como usar 🔍
 
-funcionando em seu terminal, insira ``` jp2a ``` adicione o endereco do arquivo ou link, por fim caso desejar algum parametro como cores ou tamanho adicione ``` --(parametro) ```.
-``` exemplo: jp2a --width=50 /caminho/Spain.png --colors ```.
+Para utilizar o ```jp2a```, execute o comando seguido do caminho do arquivo de imagem ou de um link para a imagem desejada. Caso queira personalizar a conversão, adicione parâmetros opcionais, como largura, altura, cores ou outros ajustes. Por exemplo:
+
+```bash
+jp2a --width=50 --colors /caminho/Spain.png
+```
+
+Você pode combinar múltiplos parâmetros conforme necessário. Para consultar todos os parâmetros disponíveis, utilize o comando ```jp2a --help``` no terminal.
 
 ### Comando Básicos 🧰
 ```c
