@@ -1,4 +1,4 @@
-# Terminal
+# Terminal 🎩
 
 <div id="fast" align="center">
     <a href="Terminal/Fast.md">
@@ -14,7 +14,7 @@
     </a>
 </div>
 
-# Util things 
+# Coisas legais ou úteis 🐉
 
 <div id="spicetify" align="center">
     <a href="Util/Spi.md">
