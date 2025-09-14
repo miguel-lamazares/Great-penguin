@@ -1,4 +1,4 @@
-# Terminal
+# Terminal 🖥️
 
 <div align = "center">
 <table>
@@ -27,7 +27,7 @@
 </table>
 </div>
 
-# Util things 
+# Coisas Úteis e Legais 🐚
 
 <div align = "center">
 <table>
