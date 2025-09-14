@@ -12,7 +12,7 @@
     
 <td id="jp2a">
 <a href="Terminal/Jp2a.md">
-<img width="50" src="/imgs/jp2a.jpg" alt="jp2a logo"><br>
+<img width="50" src="/imgs/jp2a.png" alt="jp2a logo"><br>
 <b>JP2A</b>
 </a>
 </td>
