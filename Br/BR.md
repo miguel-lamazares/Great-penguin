@@ -18,7 +18,7 @@
 </td>
     
 <td id="Kitty">
-<a href="Util/Kitty.md">
+<a href="Terminal/Kitty.md">
 <img width="50" src="/imgs/kitty.svg"><br>
 <b>Kitty</b>
 </a>
@@ -29,20 +29,20 @@
 
 # Util things 
 
-<p id="spicetify" align="center">
-    <a href="Util/Spi.md">
-        <img width="50" src="/imgs/Spi.png"
-        alt="Spi logo"><br>
-        <span style="display:block;
-        text-align:center;">Spicetify</span>
-    </a>
-</p>
-
-<p id="Git" align="center">
-    <a href="Util/Git.md">
-        <img width="50" src="/imgs/Git.png"
-        alt="Git logo"><br>
-        <span style="display:block;
-        text-align:center;">Git Hub Desktop Linux</span>
-    </a>
-</p>
+<div align = "center">
+<table>
+<td id="spicetify" align = "center">
+<a href="Util/Spi.md">
+<img width="50" src="/imgs/Fast.png" alt="Spi logo"><br>
+<b>Spicetify</b>
+</a>
+</td>
+    
+<td id="git">
+<a href="Util/Git.md">
+<img width="50" src="/imgs/Git.png" alt="git logo"><br>
+<b>Git Hub Desktop Linux</b>
+</a>
+</td>
+</table>
+</div>
