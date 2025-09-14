@@ -1,27 +1,30 @@
 # Terminal
-<div align="center">
-    <p id="fast">
-     <a href="Terminal/Fast.md">
-            <img width="50" src="/imgs/Fast.png" alt="Fast logo"><br>
-            <span style="display:block; text-align:center;">Fastfetch</span>
-        </a>
-    </p>
-    <div>
-    <p id="jp2a">
-        <a href="Terminal/Jp2a.md">
-         <img width="50" src="/imgs/jp2a.jpg" alt="jp2a logo"><br>
-            <span style="display:block; text-align:center;">Jp2a</span>
-        </a>
-    </p>
-    </div>
-    <p id="Kitty">
-        <a href="Util/Kitty.md">
-         <img width="50" src="/imgs/kitty.svg"
-            alt="Spi logo"><br>
-            <span style="display:block;
-            text-align:center;">Terminal Kitty</span>
-     </a>
-    </p>
+
+<div align = "center">
+<table>
+<tr>
+<td id="fastfetch" align = "center">
+<a href="Terminal/Fast.md">
+<img width="50" src="/imgs/Fast.png" alt="Fast logo"><br>
+<b>FastFetch</b>
+</a>
+</td>
+    
+<td id="jp2a">
+<a href="Terminal/Jp2a.md">
+<img width="50" src="/imgs/jp2a.jpg" alt="jp2a logo"><br>
+<b>JP2A</b>
+</a>
+</td>
+    
+<td id="Kitty">
+<a href="Util/Kitty.md">
+<img width="50" src="/imgs/kitty.svg"><br>
+<b>Kitty</b>
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 # Util things 
