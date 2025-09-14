@@ -31,9 +31,10 @@
 
 <div align = "center">
 <table>
+<tr>
 <td id="spicetify" align = "center">
 <a href="Util/Spi.md">
-<img width="50" src="/imgs/Fast.png" alt="Spi logo"><br>
+<img width="50" src="/imgs/Spi.png" alt="Spi logo"><br>
 <b>Spicetify</b>
 </a>
 </td>
@@ -44,5 +45,6 @@
 <b>Git Hub Desktop Linux</b>
 </a>
 </td>
+</tr>
 </table>
 </div>
