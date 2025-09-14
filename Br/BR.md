@@ -1,5 +1,5 @@
 # Terminal
-<div>
+<div align="center">
 <p id="fast">
     <a href="Terminal/Fast.md">
         <img width="50" src="/imgs/Fast.png" alt="Fast logo"><br>
