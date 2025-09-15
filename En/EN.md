@@ -44,7 +44,13 @@
 <b>Atuin</b>
 </a>
 </td>
-ani-cle
+
+<td id="ani-cli">
+<a href="Terminal/ani.md">
+<img width="50" src="/imgs/ani.png"><br>
+<b>ani-cli</b>
+</a>
+</td>
 </tr>
 </table>
 </div>
