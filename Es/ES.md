@@ -26,14 +26,14 @@
 
 <td id="zsh">
 <a href="Terminal/ZSH.md">
-<img width="50" src="/imgs/ZSH.jpg"><br>
+<img width="50" src="/imgs/ZSH.jpeg"><br>
 <b>ZSH</b>
 </a>
 </td>
 
 <td id="Starship">
 <a href="Terminal/Star.md">
-<img width="50" src="/imgs/Star.jpg"><br>
+<img width="50" src="/imgs/Star.png"><br>
 <b>Starship</b>
 </a>
 </td>
