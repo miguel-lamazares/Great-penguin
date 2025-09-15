@@ -32,7 +32,7 @@
 </td>
 
 <td id="Starship">
-<a href="Termianl/Star.md">
+<a href="Terminal/Star.md">
 <img width="50" src="/imgs/Star.jpg"><br>
 <b>Starship</b>
 </a>
@@ -67,6 +67,14 @@
 <b>Git Hub Desktop Linux</b>
 </a>
 </td>
+
+<td id="gimp">
+<a href="Util/Git.md">
+<img width="50" src="/imgs/Gimp.png" alt="gimp logo"><br>
+<b>GIMP</b>
+</a>
+</td>
+
 </tr>
 </table>
 </div>
