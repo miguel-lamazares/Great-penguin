@@ -3,7 +3,7 @@
 O ``` jp2a ``` é um software de linha de comando (CLI) projetado para converter imagens digitais, nos formatos mais comuns (tais como JPEG, PNG, GIF, entre outros), em representações de arte ASCII diretamente no terminal ou em arquivos de texto. Sua funcionalidade central consiste em analisar os pixels de uma imagem, mapear seus valores de brilho e cor para um conjunto de caracteres de texto e, opcionalmente, utilizar códigos de escape ANSI para incorporar cores, resultando em uma versão aproximada da imagem original composta inteiramente por caracteres.
 
 ## Como instalar 🛠
-
+### Linux 🐧 
 ```bash
 Debian
 sudo apt install jp2a
@@ -61,6 +61,7 @@ jp2a --help                         # Mostra ajuda completa
 jp2a --version                      # Mostra versão do programa
 ```
 
+## Comunidade e Suporte 🌐 
 
 Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https://github.com/cslarsen/jp2a">repositório oficial no GitHub</a> para documentação completa.
 

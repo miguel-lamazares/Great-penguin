@@ -18,5 +18,7 @@ com ajuda do nano:
 |Fish    | ~/.config/fish/config.fish | atuin init fish | source  |
 |Zsh     | ~/.zshrc                   | eval "$(atuin init zsh)"  |
 
+## Comunidade e Suporte 🌐 
+
 Para mais informações, documentação completa, reportar issues ou contribuir, acesse o <a href="https://github.com/atuinsh/atuin">repositório</a> e <a href="https://atuin.sh/">site oficial</a> do projeto.
 

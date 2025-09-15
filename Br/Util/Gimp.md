@@ -3,7 +3,7 @@
 O ```GIMP``` (GNU Image Manipulation Program) é um editor de imagens open source e gratuito, considerado uma alternativa poderosa ao Photoshop.
 
 ## Como Instalar 🛠
-
+### Linux 🐧 
 ```bash
 Debian
 sudo apt install gimp
