@@ -65,4 +65,4 @@ Temas não funcionando?
 ## Comunidade e Suporte 🌐 
 
 <a href="https://spicetify.app/">Site oficial</a>
-<a href="https://github.com/spicetify"> repositório oficial</a>
+<a href="https://github.com/spicetify">repositório oficial</a>
