@@ -40,7 +40,7 @@
 
 <td id="atuin">
 <a href="Termianl/Atuin.md">
-<img width="50" src="/imgs/Atuin.jpg"><br>
+<img width="50" src="/imgs/Atuin.png"><br>
 <b>Atuin</b>
 </a>
 </td>

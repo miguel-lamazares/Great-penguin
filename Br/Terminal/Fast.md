@@ -1,4 +1,4 @@
-# FastFetch
+# FastFetch 📊
 
 O ```FastFetch``` é um programa de terminal que exibe informações do sistema de forma rápida e personalizável. Funciona como uma alternativa mais veloz ao Neofetch, mostrando detalhes de hardware, software e configurações. Sua principal vantagem é a alta customização via arquivos JSON, permitindo ajustar módulos, cores e layouts. Ideal para quem quer criar dashboards informativos com identidade visual única no terminal.
 
