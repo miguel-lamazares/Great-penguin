@@ -29,21 +29,22 @@ Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https:
 
 # Customizações Previamente Configuradas 👺
 
-<div align= "right"><img width="150" src="/imgs/Fast2.png"></div>
+<div align= "center"><img width="680" src="/imgs/Fast2.png"></div>
 
 Uma das melhores características do FastFetch é sua alta customização e a facilidade para personalizá-lo.
 
 Vou compartilhar meu tema atual e o passo a passo para configurar o seu:
-📂 Passo a Passo:
 
-Acesse pastas ocultas:
+#### 📂 Passo a Passo:
+
+1. Acesse pastas ocultas:
 Na pasta home do Linux, pressione simultaneamente ```Ctrl + H``` para visualizar pastas ocultas.
 
-Navegue até a pasta do FastFetch:
+2. Navegue até a pasta do FastFetch:
 
 Abra o diretório: ```/home/seu_usuario/.config/fastfetch/```
 
-Adicione seus assets:
+3. Adicione seus assets:
 
 Crie uma pasta chamada ```assets```
 
@@ -51,22 +52,22 @@ Adicione uma imagem de sua preferência com o nome ```img.png```
 
 Cole o arquivo de configuração disponível para download com o nome ```pretty.jsonc```
 
-Configure inicialização automática:
+4. Configure inicialização automática:
 
 Abra o arquivo ```~/.zshrc``` com o editor nano:
 
 ```nano ~/.zshrc```
 
-Adicione a seguinte linha no final do arquivo:
+5. Adicione a seguinte linha no final do arquivo:
 bash
 
 ```fastfetch -c ~/.config/fastfetch/pretty.jsonc```
 
-Salve e recarregue:
+6. Salve e recarregue:
 
 Salve o arquivo com Ctrl + X, depois Y e Enter
 
-Recarregue o terminal com:
+7. Recarregue o terminal com:
 
 ```source ~/.zshrc```
 
