@@ -71,4 +71,4 @@ Salve o arquivo com Ctrl + X, depois Y e Enter
 
 ```source ~/.zshrc```
 
-###🎩✨ A Mágica Está Pronta! Basta abrir novamente o terminal.
+### 🎩✨ A Mágica Está Pronta! Basta abrir novamente o terminal.
