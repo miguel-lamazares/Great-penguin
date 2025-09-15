@@ -23,6 +23,28 @@
 <b>Kitty</b>
 </a>
 </td>
+
+<td id="zsh">
+<a href="Termianl/ZSH.md">
+<img width="50" src="/imgs/ZSH.jpg"><br>
+<b>ZSH</b>
+</a>
+</td>
+
+<td id="Starship">
+<a href="Termianl/Star.md">
+<img width="50" src="/imgs/Star.jpg"><br>
+<b>Starship</b>
+</a>
+</td>
+
+<td id="atuin">
+<a href="Termianl/Atuin.md">
+<img width="50" src="/imgs/Atuin.jpg"><br>
+<b>Atuin</b>
+</a>
+</td>
+
 </tr>
 </table>
 </div>
