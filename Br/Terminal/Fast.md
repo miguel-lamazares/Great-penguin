@@ -29,7 +29,7 @@ Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https:
 
 # Customizações Previamente Configuradas 👺
 
-<div align= "right"><img src="/imgs/Fast2.png"></div>
+<div align= "right"><img width="150" src="/imgs/Fast2.png"></div>
 
 Uma das melhores características do FastFetch é sua alta customização e a facilidade para personalizá-lo.
 
