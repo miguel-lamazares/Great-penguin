@@ -25,7 +25,7 @@
 </td>
 
 <td id="zsh">
-<a href="Termianl/ZSH.md">
+<a href="Terminal/ZSH.md">
 <img width="50" src="/imgs/ZSH.jpg"><br>
 <b>ZSH</b>
 </a>
@@ -39,7 +39,7 @@
 </td>
 
 <td id="atuin">
-<a href="Termianl/Atuin.md">
+<a href="Terminal/Atuin.md">
 <img width="50" src="/imgs/Atuin.png"><br>
 <b>Atuin</b>
 </a>
