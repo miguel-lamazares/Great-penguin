@@ -4,6 +4,8 @@ O ```FastFetch``` é um programa de terminal que exibe informações do sistema 
 
 ## Como Instalar 🛠
 
+### Linux 
+
 ```bash
 Debian
 sudo apt install fastfetch

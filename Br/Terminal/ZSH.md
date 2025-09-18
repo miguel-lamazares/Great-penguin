@@ -54,10 +54,10 @@ Instalação:
 Estrutura de Diretórios
 
 
-~/.zshrc              # Arquivo de configuração principal
-~/.oh-my-zsh/         # Diretório do framework
-~/.oh-my-zsh/themes/  # Temas instalados
-~/.oh-my-zsh/plugins/ # Plugins instalados
+1. ~/.zshrc              # Arquivo de configuração principal
+2. ~/.oh-my-zsh/         # Diretório do framework
+3. ~/.oh-my-zsh/themes/  # Temas instalados
+4. ~/.oh-my-zsh/plugins/ # Plugins instalados
 
 
 ### Plugins Úteis
