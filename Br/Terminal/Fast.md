@@ -19,7 +19,7 @@ sudo pacman -S fastfetch
 
 ## Como usar 🔍
 
-Para utilizar o ```FastFetch```, basta execultar o seguinte comando ```fastfatch```, consultar outros comandos, utilize ```fastfetch --help```.
+Para utilizar o ```FastFetch```, basta execultar o seguinte comando ```fastfetch```, consultar outros comandos, utilize ```fastfetch --help```.
 
 ### Customização 🚀
 

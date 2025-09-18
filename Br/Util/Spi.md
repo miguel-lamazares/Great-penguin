@@ -63,6 +63,4 @@ Temas não funcionando?
 ```spicetify config current_theme Default && spicetify apply```
 
 ## Comunidade e Suporte 🌐 
-
-<a href="https://spicetify.app/">Site oficial</a>
-<a href="https://github.com/spicetify">repositório oficial</a>
+Para mais informações, documentação completa, reportar issues ou contribuir, acesse o <a href="https://github.com/spicetify">repositório</a> e <a href="https://spicetify.app/">site oficial</a> do projeto.

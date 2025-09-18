@@ -37,6 +37,7 @@ Vou compartilhar meu tema atual e o passo a passo para configurar o seu:
 
 #### 📂 Passo a Passo:
 
+
 1. Acesse pastas ocultas:
 Na pasta home do Linux, pressione simultaneamente ```Ctrl + H``` para visualizar pastas ocultas.
 
