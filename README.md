@@ -1,6 +1,6 @@
-# let's let your terminal nicely and util 🐧
+# let's make your terminal nicely and util 🐧
 
-<div align="center" id="SetALanguage"> <h3>First set one language</h3> </div>
+<div align="center" id="SetALanguage"> <h3>First, select a language</h3> </div>
 
 <div align="center" id="flags"> 
 <a href="En/EN.md">

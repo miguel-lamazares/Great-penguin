@@ -1,22 +1,22 @@
 # Atuin 🐢
 
-O ```Atuin``` é uma ferramenta revolucionária que substitui o histórico padrão do seu shell, usando um banco de dados SQLite para armazenar e sincronizar seus comandos através de dispositivos.
+```Atuin``` is a revolutionary tool that replaces your shell’s default history, using a SQLite database to store and synchronize your commands across devices.
 
-## Como Instalar 🛠
+## How to install 🛠
 
 ```curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh```
 
-## Como usar 🔍
+## How to use 🔍
 
-eu uso é muito simples, porém extremamente útil: apenas pressione a tecla seta para cima (↑) para navegar pelo seu histórico de comandos.
+Usage is very simple yet extremely useful: just press the up arrow key (↑) to navigate through your command history.  
 
-com ajuda do nano:
+With the help of nano:  
 
-|Shell's | Caminho                    | Comando                   |
+|Shell's | Path                    | Command                   |
 |:-------|:---------------------------|:--------------------------|  
 |Bash    | ~/.bashrc : eval           | eval "$(atuin init bash)" |
 |Fish    | ~/.config/fish/config.fish | atuin init fish | source  |
 |Zsh     | ~/.zshrc                   | eval "$(atuin init zsh)"  |
 
-Para mais informações, documentação completa, reportar issues ou contribuir, acesse o <a href="https://github.com/atuinsh/atuin">repositório</a> e <a href="https://atuin.sh/">site oficial</a> do projeto.
+For more information, full documentation, reporting issues, or contributing, visit the project’s <a href="https://github.com/atuinsh/atuin">repository</a> and <a href="https://atuin.sh/">official website</a>.
 

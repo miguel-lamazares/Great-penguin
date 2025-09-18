@@ -1,8 +1,9 @@
 # FastFetch 📊
 
-O ```FastFetch``` é um programa de terminal que exibe informações do sistema de forma rápida e personalizável. Funciona como uma alternativa mais veloz ao Neofetch, mostrando detalhes de hardware, software e configurações. Sua principal vantagem é a alta customização via arquivos JSON, permitindo ajustar módulos, cores e layouts. Ideal para quem quer criar dashboards informativos com identidade visual única no terminal.
+```FastFetch``` is a terminal program that displays system information quickly and in a customizable way. It serves as a faster alternative to Neofetch, showing details about hardware, software, and configurations. Its main advantage is high customization via JSON files, allowing adjustment of modules, colors, and layouts. Ideal for those who want to create informative dashboards with a unique visual identity in the terminal.  
 
-## Como Instalar 🛠
+
+## How to install 🛠
 
 ### Linux 
 
@@ -19,13 +20,13 @@ Arch
 sudo pacman -S fastfetch
 ```
 
-## Como usar 🔍
+## How to use 🔍
 
-Para utilizar o ```FastFetch```, basta execultar o seguinte comando ```fastfatch```, consultar outros comandos, utilize ```fastfetch --help```.
+To use ```FastFetch```, simply run the following command ```fastfatch```,To see other commands, use ```fastfetch --help```.
 
-### Customização 🚀
+### Customization 🚀
 
-Use ```fastfetch --gen-config``` para gerar um arquivo de configuração padrão.
+Use ```fastfetch --gen-config``` To generate a default configuration file.
 
 Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https://github.com/cslarsen/jp2a">repositório oficial no GitHub</a> para documentação completa.
 
@@ -55,23 +56,23 @@ Adicione uma imagem de sua preferência com o nome ```img.png```
 
 Cole o arquivo de configuração disponível para download com o nome ```pretty.jsonc```
 
-4. Configure inicialização automática:
+4. Configure automatic startup:
 
-Abra o arquivo ```~/.zshrc``` com o editor nano:
+open the ```~/.zshrc```file with nano editor:
 
 ```nano ~/.zshrc```
 
-5. Adicione a seguinte linha no final do arquivo:
-bash
+5. Add the following line at the end of the file
+
 
 ```fastfetch -c ~/.config/fastfetch/pretty.jsonc```
 
-6. Salve e recarregue:
+6. Save and reload:
 
-Salve o arquivo com Ctrl + X, depois Y e Enter
+Save the file with Ctrl + X, then Y and Enter
 
-7. Recarregue o terminal com:
+7. Reload the terminal with:
 
 ```source ~/.zshrc```
 
-### 🎩✨ A Mágica Está Pronta! Basta abrir novamente o terminal.
+### 🎩✨ The magic is ready! Just reopen the terminal.  
