@@ -63,14 +63,14 @@ Estrutura de Diretórios
 ### Plugins Úteis
 
 
-plugins=(
-git
-docker
-kubectl
-zsh-autosuggestions
-zsh-syntax-highlighting
-git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
-)
+plugins={
+```git```
+```docker```
+```kubectl```
+```zsh-autosuggestions```
+```zsh-syntax-highlighting```
+```git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git```
+}
 
 
 
