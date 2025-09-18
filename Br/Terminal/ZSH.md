@@ -5,29 +5,29 @@ O ZSH (Z Shell) é um shell de linha de comando extremamente poderoso e altament
 ## Como Instalar 🛠️
 
 ### Linux 🐧
-
-# Debian/Ubuntu
+```bash
+Debian/Ubuntu
 sudo apt install zsh
 
-# Fedora
+Fedora
 sudo dnf install zsh
 
-# Arch Linux
+Arch Linux
 sudo pacman -S zsh
-
+```
 ### macOS 🍎
 
-brew install zsh
+```brew install zsh```
 
 #### Tornar o ZSH seu shell padrão
 
-chsh -s $(which zsh)
+```chsh -s $(which zsh)```
 
 ## Como Usar 🔍
 
 Após a instalação, reinicie o terminal ou execute:
 
-zsh
+```zsh```
 
 #### Na primeira execução, o ZSH guiará você por uma configuração inicial básica.
 ##### Configuração Avançada com Oh My Zsh
@@ -36,19 +36,19 @@ Oh My Zsh é um framework de código aberto para gerenciar configurações do ZS
 
 Instalação:
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
 ### Comandos úteis:
 
 
 ### Atualizar Oh My Zsh
-omz update
+```omz update```
 
 ### Desativar (temporariamente)
-unset _ZOOM
+```unset _ZOOM```
 
 ### Reativar
-source ~/.zshrc
+```source ~/.zshrc```
 
 ## Customização 🎨
 Estrutura de Diretórios
@@ -64,17 +64,17 @@ Estrutura de Diretórios
 
 
 plugins=(
-  git
-  docker
-  kubectl
-  zsh-autosuggestions
-  zsh-syntax-highlighting
-  git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
+git
+docker
+kubectl
+zsh-autosuggestions
+zsh-syntax-highlighting
+git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
 )
 
 
 
-Comunidade e Suporte 🌐
+## Comunidade e Suporte 🌐
 
 Consulte:
 
