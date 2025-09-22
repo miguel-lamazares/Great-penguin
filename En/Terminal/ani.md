@@ -1,8 +1,8 @@
 # ani-cli ⛩️
 
-O ```ani-cli``` é um cliente de terminal minimalista e extremamente eficiente para assistir animes diretamente pela linha de comando. Desenvolvido em Bash, ele permite buscar, selecionar e reproduzir episódios de animes usando o mpv como player, tudo sem precisar de navegador ou interfaces gráficas. Sua principal vantagem é a simplicidade e velocidade, ideal para quem prefere o terminal e quer evitar anúncios e distrações.
+```ani-cli``` s a minimalist and highly efficient terminal client for watching anime directly from the command line. Developed in Bash, it allows you to search, select, and play anime episodes using mpv as the player, all without needing a browser or graphical interface. Its main advantage is simplicity and speed, making it ideal for those who prefer the terminal and want to avoid ads and distractions.
 
-## Como Instalar 🛠️
+## How to install 🛠️
 
 ### Linux 🐧 
 ```bash
@@ -17,31 +17,31 @@ sudo dnf install ani-cli
 Arch
 sudo pacman -S ani-cli
 ```
-## Como Usar 🔍
-### Comandos Básicos
-1. Buscar um anime
+## How to use 🔍
+### Basic commands
+1. Search an anime
 ani-cli "Attack on Titan"
 
-2. Reproduzir diretamente
+2. direct play
 ani-cli -a "Naruto"
 
-3. Listar episódios disponíveis
+3. List available episodes
 ani-cli -l "One Piece"
 
-4. Continuar de onde parou
+4. Continue from where you left off
 ani-cli -c "Jujutsu Kaisen"
 
 Teclas no mpv:
-← →    - Avançar/retroceder 10 segundos
-↑ ↓    - Ajustar volume
+← →    - Skip forward/backward 10 seconds
+↑ ↓    - Adjust volume
 Space  - Play/Pause
-q      - Sair
-f      - Tela cheia
+q      - exit
+f      - Full screen
 
-## Comunidade e Suporte 🌐
+## Community and Support 🌐
 
-Consulte:
+Check:
 
-<a href="https://github.com/pystardust/ani-cli">Repositório oficial no GitHub</a>
+<a href="https://github.com/pystardust/ani-cli">Official GitHub Repository</a>
 
-<a href="https://github.com/pystardust/ani-cli/wiki">Wiki do projeto</a>
+<a href="https://github.com/pystardust/ani-cli/wiki">Project Wiki</a>
