@@ -79,7 +79,7 @@
 </table>
 </div>
 
-# Images
+# Images 🖼️
 
 <div align = "center">
 <table>
