@@ -1,8 +1,8 @@
 # Jp2a 🎨
 
-O ``` jp2a ``` é um software de linha de comando (CLI) projetado para converter imagens digitais, nos formatos mais comuns (tais como JPEG, PNG, GIF, entre outros), em representações de arte ASCII diretamente no terminal ou em arquivos de texto. Sua funcionalidade central consiste em analisar os pixels de uma imagem, mapear seus valores de brilho e cor para um conjunto de caracteres de texto e, opcionalmente, utilizar códigos de escape ANSI para incorporar cores, resultando em uma versão aproximada da imagem original composta inteiramente por caracteres.
+O ``` jp2a ``` es un software de línea de comandos (CLI) diseñado para convertir imágenes digitales, en los formatos más comunes (como JPEG, PNG, GIF, entre otros), en representaciones de arte ASCII directamente en el terminal o en archivos de texto. Su funcionalidad principal consiste en analizar los píxeles de una imagen, mapear sus valores de brillo y color a un conjunto de caracteres de texto y, opcionalmente, utilizar códigos de escape ANSI para incorporar colores, resultando en una versión aproximada de la imagen original compuesta completamente por caracteres.
 
-## Como instalar 🛠
+## Comó instalar 🛠
 
 ```bash
 Debian
@@ -16,53 +16,52 @@ sudo dnf install jp2a
 Arch
 sudo pacman -S jp2a
 ```
-## Como usar 🔍
+## Comó usar 🔍
 
-Para utilizar o ```jp2a```, execute o comando seguido do caminho do arquivo de imagem ou de um link para a imagem desejada. Caso queira personalizar a conversão, adicione parâmetros opcionais, como largura, altura, cores ou outros ajustes. Por exemplo:
+Para utilizar o ```jp2a```, ejecuta el comando seguido de la ruta del archivo de imagen o de un enlace a la imagen deseada. Si deseas personalizar la conversión, agrega parámetros opcionales, como ancho, alto, colores u otros ajustes. Por ejemplo:
 
 ```bash
 jp2a --width=50 --colors /caminho/Spain.png
 ```
+Puedes combinar múltiples parámetros según sea necesario. Para consultar todos los parámetros disponibles, utiliza el comando ```jp2a --help``` no terminal.
 
-Você pode combinar múltiplos parâmetros conforme necessário. Para consultar todos os parâmetros disponíveis, utilize o comando ```jp2a --help``` no terminal.
-
-### Comando Básicos 🧰
+### Comandos Básicos 🧰
 ```c
-jp2a imagem.jpg                     # Conversão básica
-jp2a --width=80 imagem.jpg          # Largura personalizada
-jp2a --height=25 imagem.jpg         # Altura personalizada
-jp2a --size=full imagem.jpg         # Usa largura total do terminal
-jp2a --size=half imagem.jpg         # Usa metade da largura do terminal
+jp2a imagem.jpg                     # Conversión básica
+jp2a --width=80 imagem.jpg          # Ancho personalizado
+jp2a --height=25 imagem.jpg         # Alto personalizado
+jp2a --size=full imagem.jpg         # Usar ancho total del terminal
+jp2a --size=half imagem.jpg         # Usar la mitad del ancho del terminal
 ```
-### Comandos de Cores 🖌️
+### Comandos de Colores 🖌️
 ```c
-jp2a --colors imagem.jpg            # Saída colorida
-jp2a --bg=dark imagem.jpg           # Fundo escuro (otimização)
-jp2a --bg=light imagem.jpg          # Fundo claro (otimização)
-jp2a --invert imagem.jpg            # Inverte cores
+jp2a --colors imagem.jpg            # Salida en color
+jp2a --bg=dark imagem.jpg           # Fondo oscuro (optimización)
+jp2a --bg=light imagem.jpg          # Fondo claro (optimización)
+jp2a --invert imagem.jpg            # Invertir colores
 ```
-### Comandos de Saída 🖨️
+### Comandos de Salida 🖨️
 ```c
-jp2a --output=arte.txt imagem.jpg   # Salva em arquivo
-jp2a --html imagem.jpg > page.html  # Saída em formato HTML
-jp2a --ansi imagem.jpg              # Saída com códigos ANSI
+jp2a --output=arte.txt imagem.jpg   # Guardar en archivo
+jp2a --html imagem.jpg > page.html  # Salida en formato HTML
+jp2a --ansi imagem.jpg              # Salida con códigos ANSI
 ```
-### Comandos de Personalização 🧩
+### Comandos de Personalización 🧩
 ```c
 jp2a --chars="@#%&*+=-:. " imagem.jpg  # Caracteres personalizados
-jp2a --fill=LADO imagem.jpg          # Preenchimento lateral
-jp2a --border imagem.jpg            # Adiciona borda
-jp2a --flipx imagem.jpg             # Espelha horizontalmente
-jp2a --flipy imagem.jpg             # Espelha verticalmente
+jp2a --fill=LADO imagem.jpg          # Relleno lateral
+jp2a --border imagem.jpg            # Añadir borde
+jp2a --flipx imagem.jpg             # Voltear horizontalmente
+jp2a --flipy imagem.jpg             # Voltear verticalmente
 ```
-### Comandos de Ajuda ❓
+### Comandos de Ayuda ❓
 ```c
-jp2a --help                         # Mostra ajuda completa
-jp2a --version                      # Mostra versão do programa
+jp2a --help                         # Mostrar ayuda completa
+jp2a --version                      # Mostrar versión del programa
 ```
 
 
-Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https://github.com/cslarsen/jp2a">repositório oficial no GitHub</a> para documentação completa.
+Consulta en tu terminal con el comando ``` jp2a --help ``` o en el <a href="https://github.com/cslarsen/jp2a">repositório oficial en GitHub</a> para la documentación completa.
 
 
 ```c
