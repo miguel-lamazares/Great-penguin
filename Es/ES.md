@@ -85,14 +85,14 @@
 <table>
 <tr>
 <td id="mobile" align = "center">
-<a href="photos/wallpapers">
+<a href="/imgs/photos/wallpapers">
 <img width="50" src="/imgs/Wall.jpeg" alt="Mobile Wallpapers"><br>
 <b>Mobile Wallpapers</b>
 </a>
 </td>
 
 <td id="icons" align = "center">
-<a href="photos/icons">
+<a href="/imgs/photos/icons">
 <img width="50" src="/imgs/icon.jpg" alt="icons"><br>
 <b>Icons</b>
 </a>
