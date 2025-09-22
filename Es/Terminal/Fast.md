@@ -25,32 +25,32 @@ Para utilizar ```FastFetch```, simplemente ejecute el siguiente comando ```fastf
 
 Utilize ```fastfetch --gen-config``` Para generar un archivo de configuración predeterminado.
 
-Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https://github.com/cslarsen/jp2a">repositório oficial no GitHub</a> para documentação completa.
+Consulta en tu terminal con el comando ``` jp2a --help ``` o en el <a href="https://github.com/cslarsen/jp2a">repositorio oficial en GitHub</a> para la documentación completa.
 
-# Customizações Previamente Configuradas 👺
+# Personalizaciones Previamente Configuradas 👺
 
 <div align= "center"><img width="680" src="/imgs/Fast2.png"></div>
 
-Uma das melhores características do FastFetch é sua alta customização e a facilidade para personalizá-lo.
+Una de las mejores características de FastFetch es su alta personalización y la facilidad para adaptarlo a tu gusto.
 
-Vou compartilhar meu tema atual e o passo a passo para configurar o seu:
+Voy a compartir mi tema actual y el paso a paso para que configures el tuyo:
 
-#### 📂 Passo a Passo:
+#### Paso a Paso 📂:
 
-1. Acesse pastas ocultas:
-Na pasta home do Linux, pressione simultaneamente ```Ctrl + H``` para visualizar pastas ocultas.
+1. Accede a las carpetas ocultas:
+En la carpeta home de Linux, presiona simultáneamente ```Ctrl + H``` para visualizar las carpetas ocultas.
 
-2. Navegue até a pasta do FastFetch:
+2. Navega hasta la carpeta de FastFetch:
 
-Abra o diretório: ```/home/seu_usuario/.config/fastfetch/```
+Abre el directorio: ```/home/seu_usuario/.config/fastfetch/```
 
-3. Adicione seus assets:
+3. Añade tus assets:
 
-Crie uma pasta chamada ```assets```
+Crea una carpeta llamada ```assets```
 
-Adicione uma imagem de sua preferência com o nome ```img.png```
+Añade una imagen de tu preferencia con el nombre ```img.png```
 
-Cole o arquivo de configuração disponível para download com o nome ```pretty.jsonc```
+Pega el archivo de configuración disponible para descargar con el nombre ```pretty.jsonc```
 
 4. Configure el inicio automático:
 
