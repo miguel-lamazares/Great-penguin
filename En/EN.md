@@ -69,7 +69,7 @@
     
 <td id="git">
 <a href="Util/Git.md">
-<img width="50" src="/imgs/Git.png" alt="git logo"><br>
+<img width="50" src="/imgs/Gimp.png" alt="git logo"><br>
 <b>Git Hub Desktop Linux</b>
 </a>
 </td>
