@@ -78,6 +78,7 @@
 </tr>
 </table>
 </div>
+
 # Github 🐙
 
 <div align = "center">
@@ -94,6 +95,13 @@
 <a href="Util/Spi.md">
 <img width="50" src="/imgs/Spi.png" alt="auto-gif"><br>
 <b>Auto-gif</b>
+</a>
+</td>
+
+<td id="gifs" align = "center">
+<a href="Util/Spi.md">
+<img width="50" src="/imgs/Spi.png" alt="gifs"><br>
+<b>Gifs</b>
 </a>
 </td>
 
