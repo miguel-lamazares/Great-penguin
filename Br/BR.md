@@ -78,6 +78,35 @@
 </tr>
 </table>
 </div>
+# Github 🐙
+
+<div align = "center">
+<table>
+<tr>
+<td id="skill" align = "center">
+<a href="Util/Spi.md">
+<img width="50" src="/imgs/Spi.png" alt="skill"><br>
+<b>Skill icons</b>
+</a>
+</td>
+
+<td id="auto-gif" align = "center">
+<a href="Util/Spi.md">
+<img width="50" src="/imgs/Spi.png" alt="auto-gif"><br>
+<b>Auto-gif</b>
+</a>
+</td>
+
+<td id="readme" align = "center">
+<a href="Util/Spi.md">
+<img width="50" src="/imgs/Spi.png" alt="readme"><br>
+<b>Readme</b>
+</a>
+</td>
+
+</tr>
+</table>
+</div>
 
 # Images 🖼️
 
