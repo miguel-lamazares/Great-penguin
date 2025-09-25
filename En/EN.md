@@ -75,7 +75,7 @@
 </td>
 
 <td id="gimp">
-<a href="Util/Git.md">
+<a href="Util/Gimp.md">
 <img width="50" src="/imgs/Gimp.png" alt="gimp logo"><br>
 <b>GIMP</b>
 </a>
