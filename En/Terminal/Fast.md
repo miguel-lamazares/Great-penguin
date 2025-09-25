@@ -38,6 +38,8 @@ Uma das melhores características do FastFetch é sua alta customização e a fa
 
 Vou compartilhar meu tema atual e o passo a passo para configurar o seu:
 
+<a href="/Config-fastfetch">Click here</a>
+
 #### 📂 Passo a Passo:
 
 

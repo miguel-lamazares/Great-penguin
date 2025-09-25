@@ -98,13 +98,6 @@
 </a>
 </td>
 
-<td id="gifs" align = "center">
-<a href="Util/Spi.md">
-<img width="50" src="/imgs/Spi.png" alt="gifs"><br>
-<b>Gifs</b>
-</a>
-</td>
-
 <td id="readme" align = "center">
 <a href="Util/read.md">
 <img width="50" src="/imgs/Spi.png" alt="readme"><br>
@@ -132,6 +125,13 @@
 <a href="/imgs/photos/icons">
 <img width="50" src="/imgs/icon.jpg" alt="icons"><br>
 <b>Icons</b>
+</a>
+</td>
+
+<td id="gifs" align = "center">
+<a href="/imgs/gif/">
+<img width="50" src="/imgs/Spi.png" alt="gifs"><br>
+<b>Gifs</b>
 </a>
 </td>
 

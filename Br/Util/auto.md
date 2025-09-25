@@ -4,7 +4,7 @@ O ```Auto-gif``` foi uma solução inutel para um problema que talvez nem exista
 
 ## Como usar 🛠
 
-Clique aqui para baixar os arquivos.
+<a href="/auto-gif/">Clique aqui para baixar os arquivos</a>.
 
 1. baixe o arquivo ```update-gif.py```.
 

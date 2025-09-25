@@ -35,6 +35,8 @@ Una de las mejores características de FastFetch es su alta personalización y l
 
 Voy a compartir mi tema actual y el paso a paso para que configures el tuyo:
 
+<a href="/Config-fastfetch">Clique aqui</a>
+
 #### Paso a Paso 📂:
 
 1. Accede a las carpetas ocultas:
