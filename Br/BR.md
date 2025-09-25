@@ -86,21 +86,21 @@
 <tr>
 <td id="skill" align = "center">
 <a href="Util/skill.md">
-<img width="50" src="/imgs/Spi.png" alt="skill"><br>
+<img width="50" src="/imgs/aya.jpg" alt="skill"><br>
 <b>Skill icons</b>
 </a>
 </td>
 
 <td id="auto-gif" align = "center">
 <a href="Util/auto.md">
-<img width="50" src="/imgs/Spi.png" alt="auto-gif"><br>
+<img width="50" src="/imgs/robot.svg" alt="auto-gif"><br>
 <b>Auto-gif</b>
 </a>
 </td>
 
 <td id="readme" align = "center">
 <a href="Util/read.md">
-<img width="50" src="/imgs/Spi.png" alt="readme"><br>
+<img width="50" src="/imgs/ast.gif" alt="readme"><br>
 <b>Readme</b>
 </a>
 </td>
@@ -130,7 +130,7 @@
 
 <td id="gifs" align = "center">
 <a href="/imgs/gif/">
-<img width="50" src="/imgs/Spi.png" alt="gifs"><br>
+<img width="50" src="/imgs/gif.gif" alt="gifs"><br>
 <b>Gifs</b>
 </a>
 </td>
