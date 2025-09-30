@@ -1,8 +1,8 @@
 # ZSH 🐚
 
-O ZSH (Z Shell) é um shell de linha de comando extremamente poderoso e altamente customizável para sistemas Unix-like (Linux, macOS). Ele é conhecido por seus recursos avançados de autocompletar, suporte a temas e plugins, e por ser altamente extensível. Tornou-se famoso graças ao framework Oh My Zsh, que simplifica sua configuração e management.
+ZSH (Z Shell) es un shell de línea de comandos extremadamente potente y altamente personalizable para sistemas Unix-like (Linux, macOS). Es conocido por sus funciones avanzadas de autocompletado, soporte para temas y plugins, y por ser muy extensible. Se hizo famoso gracias al framework Oh My Zsh, que simplifica su configuración y gestión.
 
-## Como Instalar 🛠️
+## Cómo instalar 🛠️
 
 ### Linux 🐧
 ```bash
@@ -19,48 +19,48 @@ sudo pacman -S zsh
 
 ```brew install zsh```
 
-#### Tornar o ZSH seu shell padrão
+#### Hacer de ZSH tu shell predeterminado
 
 ```chsh -s $(which zsh)```
 
-## Como Usar 🔍
+## Cómo usar 🔍
 
-Após a instalação, reinicie o terminal ou execute:
+Después de la instalación, reinicia la terminal o ejecuta:
 
 ```zsh```
 
-#### Na primeira execução, o ZSH guiará você por uma configuração inicial básica.
-##### Configuração Avançada com Oh My Zsh
+#### En la primera ejecución, ZSH te guiará por una configuración inicial básica.
+##### Configuración avanzada con Oh My Zsh
 
-Oh My Zsh é um framework de código aberto para gerenciar configurações do ZSH.
+Oh My Zsh es un framework de código abierto para gestionar configuraciones de ZSH.
 
-Instalação:
+Instalación:
 
 ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
-### Comandos úteis:
+### Comandos útiles:
 
 
-### Atualizar Oh My Zsh
+### Actualizar Oh My Zsh
 ```omz update```
 
-### Desativar (temporariamente)
+### Desactivar (temporalmente)
 ```unset _ZOOM```
 
-### Reativar
+### Reactivar
 ```source ~/.zshrc```
 
-## Customização 🎨
-Estrutura de Diretórios
+## Personalización 🎨
+Estructura de directorios
 
 
-1. ~/.zshrc              # Arquivo de configuração principal
-2. ~/.oh-my-zsh/         # Diretório do framework
+1. ~/.zshrc              # Archivo principal de configuración
+2. ~/.oh-my-zsh/         # Directorio del framework
 3. ~/.oh-my-zsh/themes/  # Temas instalados
 4. ~/.oh-my-zsh/plugins/ # Plugins instalados
 
 
-### Plugins Úteis
+### Plugins útiles
 
 
 plugins={
@@ -74,12 +74,13 @@ plugins={
 
 
 
-## Comunidade e Suporte 🌐
+## Comunidad y soporte 🌐
 
-Consulte:
+Consulta:
 
-<a href="https://www.zsh.org/">Repositório oficial do ZSH</a>
+<a href="https://www.zsh.org/">Repositorio oficial de ZSH</a>
 
-<a href="https://github.com/ohmyzsh/ohmyzsh">Oh My Zsh no GitHub</a>
+<a href="https://github.com/ohmyzsh/ohmyzsh">Oh My Zsh en GitHub</a>
 
-<a href="https://www.zsh.org/mla">Fórum da comunidade</a>
+<a href="https://www.zsh.org/mla">Foro de la comunidad</a>
+

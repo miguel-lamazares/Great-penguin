@@ -1,13 +1,13 @@
 # GitHub Desktop 🐙
-O ```GitHub Desktop``` é uma aplicação gráfica que facilita o uso do Git e GitHub, tornando o controle de versão acessível para todos os níveis de usuários. Nativamente, o software não é compatível com Linux. Porém, um dos criadores disponibilizou um fork, tornando possível sua execução em sistemas Linux.
+```GitHub Desktop``` es una aplicación gráfica que facilita el uso de Git y GitHub, haciendo que el control de versiones sea accesible para usuarios de todos los niveles. De forma nativa, el software no es compatible con Linux. Sin embargo, uno de los desarrolladores ha publicado un fork que permite ejecutarlo en sistemas Linux.
 
-## Como Instalar 🛠
+## Cómo instalar 🛠
 ### Linux 🐧 
-<a href="https://github.com/sarim/github-desktop"> repositório oficial </a>
+<a href="https://github.com/sarim/github-desktop">Repositorio oficial</a>
 
 ### Windows 🪟 & macOS 🍎
-<a href="https://desktop.github.com/">Site oficial</a>
+<a href="https://desktop.github.com/">Sitio oficial</a>
 
-## Considerações finais
+## Consideraciones finales
 
-Dessa forma, você poderá aproveitar essa ferramenta incrível diretamente em sua máquina Linux 🐧
+Así podrás aprovechar esta increíble herramienta directamente en tu máquina Linux 🐧

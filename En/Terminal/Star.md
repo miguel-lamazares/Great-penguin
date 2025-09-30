@@ -1,8 +1,8 @@
 # Starship 🌌
 
-O ```Starship``` é um prompt de terminal altamente personalizável, rápido e extremamente moderno, compatível com qualquer shell (Bash, Zsh, Fish, PowerShell, etc.). Ele é escrito em Rust 🦀, o que garante velocidade e eficiência, e seu foco é fornecer um prompt rico em informações, mas minimalista e intuitivo.
+`Starship` is a highly customizable, fast, and extremely modern terminal prompt compatible with any shell (Bash, Zsh, Fish, PowerShell, etc.). It is written in Rust 🦀, ensuring speed and efficiency, and its focus is to provide a prompt rich in information, yet minimalist and intuitive.
 
-Como instalar ⚒️
+How to install ⚒️
 
 ```curl -sS https://starship.rs/install.sh | sh```
 ```bash
@@ -11,8 +11,8 @@ fish : ~/.config/fish/config.fish : starship init fish | source
 Zsh  : ~/.zshrc: eval "$(starship init zsh)"
 ```
 
-entre no site para escolher um tema basta copia-lo e cola-lo no terminal 
+Visit the website to choose a theme, just copy and paste it into your terminal.
 
-## Comunidade e Suporte 🌐 
+## Community and Support 🌐
 
-Para mais informações, documentação completa, reportar issues ou contribuir, acesse o <a href="https://github.com/kovidgoyal/kitty">repositório</a> e <a href="https://sw.kovidgoyal.net/kitty/">site oficial</a> do projeto.
+For more information, complete documentation, reporting issues, or contributing, visit the project's <a href="https://github.com/kovidgoyal/kitty">repository</a> and <a href="https://sw.kovidgoyal.net/kitty/">official website</a>.

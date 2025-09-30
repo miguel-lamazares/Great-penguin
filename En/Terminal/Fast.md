@@ -1,11 +1,10 @@
 # FastFetch 📊
 
-```FastFetch``` is a terminal program that displays system information quickly and in a customizable way. It serves as a faster alternative to Neofetch, showing details about hardware, software, and configurations. Its main advantage is high customization via JSON files, allowing adjustment of modules, colors, and layouts. Ideal for those who want to create informative dashboards with a unique visual identity in the terminal.  
-
+`FastFetch` is a terminal program that displays system information quickly and in a customizable way. It serves as a faster alternative to Neofetch, showing details about hardware, software, and configurations. Its main advantage is high customization via JSON files, allowing adjustment of modules, colors, and layouts. Ideal for those who want to create informative dashboards with a unique visual identity in the terminal.
 
 ## How to install 🛠
 
-### Linux 
+### Linux
 
 ```bash
 Debian
@@ -22,59 +21,52 @@ sudo pacman -S fastfetch
 
 ## How to use 🔍
 
-To use ```FastFetch```, simply run the following command ```fastfatch```,To see other commands, use ```fastfetch --help```.
+To use `FastFetch`, simply run the following command: `fastfetch`.  
+To see other commands, use `fastfetch --help`.
 
 ### Customization 🚀
 
-Use ```fastfetch --gen-config``` To generate a default configuration file.
+Use `fastfetch --gen-config` to generate a default configuration file.
 
-Consulte em seu terminal com o comando ``` jp2a --help ``` ou no <a href="https://github.com/cslarsen/jp2a">repositório oficial no GitHub</a> para documentação completa.
+Check your terminal with the command `jp2a --help` or visit the <a href="https://github.com/cslarsen/jp2a">official GitHub repository</a> for complete documentation.
 
-# Customizações Previamente Configuradas 👺
+# Preconfigured Customizations 👺
 
-<div align= "center"><img width="680" src="/imgs/Fast2.png"></div>
+<div align="center"><img width="680" src="/imgs/Fast2.png"></div>
 
-Uma das melhores características do FastFetch é sua alta customização e a facilidade para personalizá-lo.
+One of the best features of FastFetch is its high customizability and the ease of personalizing it.
 
-Vou compartilhar meu tema atual e o passo a passo para configurar o seu:
+I'll share my current theme and the step-by-step guide to configure yours:
 
 <a href="/Config-fastfetch">Click here</a>
 
-#### 📂 Passo a Passo:
+#### 📂 Step-by-step:
 
+1. Access hidden folders:  
+In your Linux home folder, press `Ctrl + H` simultaneously to view hidden folders.
 
-1. Acesse pastas ocultas:
-Na pasta home do Linux, pressione simultaneamente ```Ctrl + H``` para visualizar pastas ocultas.
+2. Navigate to the FastFetch folder:  
+Open the directory: `/home/your_user/.config/fastfetch/`
 
-2. Navegue até a pasta do FastFetch:
+3. Add your assets:  
+Create a folder named `assets`  
+Add an image of your choice named `img.png`  
+Paste the configuration file available for download and name it `pretty.jsonc`
 
-Abra o diretório: ```/home/seu_usuario/.config/fastfetch/```
-
-3. Adicione seus assets:
-
-Crie uma pasta chamada ```assets```
-
-Adicione uma imagem de sua preferência com o nome ```img.png```
-
-Cole o arquivo de configuração disponível para download com o nome ```pretty.jsonc```
-
-4. Configure automatic startup:
-
-open the ```~/.zshrc```file with nano editor:
+4. Configure automatic startup:  
+Open the `~/.zshrc` file with the nano editor:
 
 ```nano ~/.zshrc```
 
-5. Add the following line at the end of the file
-
+5. Add the following line at the end of the file:
 
 ```fastfetch -c ~/.config/fastfetch/pretty.jsonc```
 
-6. Save and reload:
-
+6. Save and reload:  
 Save the file with Ctrl + X, then Y and Enter
 
 7. Reload the terminal with:
 
 ```source ~/.zshrc```
 
-### 🎩✨ The magic is ready! Just reopen the terminal.  
+### 🎩✨ The magic is ready! Just reopen the terminal.

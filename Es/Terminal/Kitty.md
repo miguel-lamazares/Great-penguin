@@ -1,8 +1,8 @@
 # Kitty 🐱
 
-O ```Kitty``` é um terminal emulador moderno, rápido e altamente personalizável, focado em desempenho e funcionalidades avançadas. Ele é desenvolvido principalmente para sistemas Unix-like (Linux, macOS, BSD, etc.) e é conhecido por ser GPU-accelerated, ou seja, utiliza a placa de vídeo para renderizar o texto, o que resulta em uma experiência muito fluida e eficiente.
+```Kitty``` es un emulador de terminal moderno, rápido y altamente personalizable, enfocado en el rendimiento y funciones avanzadas. Está desarrollado principalmente para sistemas tipo Unix (Linux, macOS, BSD, etc.) y es conocido por ser acelerado por GPU, es decir, utiliza la tarjeta gráfica para renderizar el texto, lo que resulta en una experiencia muy fluida y eficiente.
 
-## Como Instalar 🛠
+## Cómo instalar 🛠
 ### Linux 🐧 
 ```bash
 Debian
@@ -16,15 +16,15 @@ sudo dnf install kitty
 Arch
 sudo pacman -S kitty
 ```
-<a href="https://github.com/kovidgoyal/kitty?tab=readme-ov-file">Outros sistemas</a> 
+<a href="https://github.com/kovidgoyal/kitty?tab=readme-ov-file">Otros sistemas</a> 
 
-### Customização 🚀
-#### 📂 Passo a Passo:
+### Personalización 🚀
+#### 📂 Paso a paso:
 
-Com ajuda do Nano acesse ```~/.config/kitty/kitty.conf```
-Remova a "#" no inicio da linha
+Con ayuda de Nano accede a ```~/.config/kitty/kitty.conf```
+Quita el "#" al inicio de la línea
 ```bash
-font_family -> (sua preferencia)
+font_family -> (tu preferencia)
 
 font_size -> 15.0
 
@@ -36,10 +36,10 @@ tab_bar_min_tabs -> 1
 
 tab_powerline_style -> round
 
-shell -> /usr/bin/zsh ou outro shell de sua preferencia
+shell -> /usr/bin/zsh u otro shell de tu preferencia
 ```
 
-## Comunidade e Suporte 🌐 
+## Comunidad y soporte 🌐 
 
-Para mais informações, documentação completa, reportar issues ou contribuir, acesse o <a href="https://github.com/kovidgoyal/kitty">repositório</a> e <a href="https://sw.kovidgoyal.net/kitty/">site oficial</a> do projeto.
+Para más información, documentación completa, reportar problemas o contribuir, accede al <a href="https://github.com/kovidgoyal/kitty">repositorio</a> y <a href="https://sw.kovidgoyal.net/kitty/">sitio oficial</a> del proyecto.
 

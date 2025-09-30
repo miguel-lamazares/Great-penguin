@@ -1,66 +1,98 @@
 # Spicetify 🎵
 
-O ```Spicetify``` é uma ferramenta de linha de comando que permite personalizar completamente o cliente do Spotify, adicionando temas, extensões e modificações.
+```Spicetify``` is a command-line tool that allows you to fully customize the Spotify client by adding themes, extensions, and modifications.
 
-Existem rumores que as vezes ocorre um erro e os anuncios param de aparecer. 
+There are rumors that sometimes an error occurs and ads stop appearing.
 
-## Como Instalar 🛠
+## How to Install 🛠
 
 ### Linux 🐧 
 
-```# curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh```
+```bash
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+```
 
-Para adicionar o marketplace
-```curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.sh | sh```
+To add the marketplace:
+```bash
+curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.sh | sh
+```
 
-```spicetify backup apply```
+```bash
+spicetify backup apply
+```
 
 ### Windows 🪟
 
-```iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex ```
+```powershell
+iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
+```
 
-Para adicionar o marketplace
-```iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.ps1 | iex```
+To add the marketplace:
+```powershell
+iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.ps1 | iex
+```
 
-```spicetify backup apply```
+```powershell
+spicetify backup apply
+```
 
 ### MacOS 🍎
 
-```brew install spicetify-cli```
+```bash
+brew install spicetify-cli
+```
 
-Para adicionar o marketplace
-```iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.ps1 | iex```
+To add the marketplace:
+```powershell
+iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.ps1 | iex
+```
 
-```spicetify backup apply```
+```bash
+spicetify backup apply
+```
 
-## Comandos 🔧 
+## Commands 🔧 
 
-#### Gerenciamento Básico 📋
+#### Basic Management 📋
 
-Aplicar configurações
-```spicetify apply```
+Apply configurations:
+```bash
+spicetify apply
+```
 
-Restaurar backup
-```spicetify restore```
+Restore backup:
+```bash
+spicetify restore
+```
 
-Atualizar Spicetify
-```spicetify upgrade```
+Update Spicetify:
+```bash
+spicetify upgrade
+```
 
-#### Resetar Configurações 🔄
+#### Reset Configurations 🔄
 
-Restaurar original
-```spicetify restore```
+Restore original:
+```bash
+spicetify restore
+```
 
-Reaplicar
-```spicetify backup apply```
+Reapply:
+```bash
+spicetify backup apply
+```
 
-#### Problemas Comuns 🐛
+#### Common Issues 🐛
 
-Spotify atualizou?
-```spicetify upgrade && spicetify apply```
+Spotify updated?
+```bash
+spicetify upgrade && spicetify apply
+```
 
-Temas não funcionando?
-```spicetify config current_theme Default && spicetify apply```
+Themes not working?
+```bash
+spicetify config current_theme Default && spicetify apply
+```
 
-## Comunidade e Suporte 🌐 
-Para mais informações, documentação completa, reportar issues ou contribuir, acesse o <a href="https://github.com/spicetify">repositório</a> e <a href="https://spicetify.app/">site oficial</a> do projeto.
+## Community and Support 🌐 
+For more information, full documentation, reporting issues, or contributing, visit the project's <a href="https://github.com/spicetify">repository</a> and <a href="https://spicetify.app/">official website</a>.

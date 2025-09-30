@@ -1,8 +1,8 @@
 # GIMP 🎨
 
-O ```GIMP``` (GNU Image Manipulation Program) é um editor de imagens open source e gratuito, considerado uma alternativa poderosa ao Photoshop.
+```GIMP``` (GNU Image Manipulation Program) is a free and open source image editor, considered a powerful alternative to Photoshop.
 
-## Como Instalar 🛠
+## How to Install 🛠
 
 ```bash
 Debian
@@ -18,18 +18,18 @@ sudo pacman -S gimp
 ```
 <a href="https://www.gimp.org/downloads/">Windows/Mac</a>
 
-## Como usar 🔍
+## How to Use 🔍
 
-Além do fato de ser uma poderosa ferramenta gratuita, o GIMP oferece diversas ferramentas úteis, suportando diversos tipos de arquivos. Pode ser usado para Design Gráfico, Artes Digitais ou Edição de Fotos.
+Besides being a powerful free tool, GIMP offers many useful features and supports various file types. It can be used for Graphic Design, Digital Art, or Photo Editing.
 
-## Suporte Completo a Formatos 📁 
+## Full Format Support 📁 
 ```JPEG, PNG, GIF, TIFF, BMP, PSD, PDF, SVG, XCF, RAW ```
 
-## Comunidade e Suporte 🌐 
+## Community and Support 🌐 
 
-Onde buscar ajuda:
+Where to get help:
 
-Fórum oficial: forum.gimp.org
-GitHub: github.com/GNOME/gimp
-Discord: Comunidades de design
+Official forum: forum.gimp.org  
+GitHub: github.com/GNOME/gimp  
+Discord: Design communities  
 Stack Overflow: Tag #gimp
