@@ -16,5 +16,5 @@
     </a>
 </div>
 
-# Import information!
-## I just compiled it, these are things that I use. I'M NOT THE CREATOR OF ALL.
+<h3 align="center">Import information!</h3>
+<h4>I just compiled it, these are things that I use. I'M NOT THE CREATOR OF ALL.</h4>
