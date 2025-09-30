@@ -15,13 +15,11 @@ No GitHub, duas animações populares são bastante utilizadas: Pacman e Snake G
 Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelo seu usuário e repositório. Para README de perfil, o nome do repositório geralmente é igual ao do usuário.
 
 ```html
-<div id="pacman">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/pacman-contribution-graph.svg">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/pacman-contribution-graph.svg">
   </picture>
-</div>
 ```
 <img align="center" src="/imgs/pac.png">
 
@@ -75,7 +73,7 @@ Para uma mensagem personalizada usando meu link, substitua pelo seu usuário. Pa
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-lamazares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=BMW%20ALL%20CARS" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-lamazares&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=BMW%20>%20ALL%20CARS" height="150" alt="languages graph" />
 </div>
 
 # Texto Dinâmico
@@ -87,7 +85,7 @@ Para criar o efeito de digitação, acesse <a href="https://readme-typing-svg.he
 ```
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=6E2169&center=true&width=435&lines=I'm+a+computer+science+student;I'm+studying+Java+and+database" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=6E2169&center=true&width=435&lines=BMW+>+ALL+CARS;LAW+>+ONE+PIECE" alt="Typing SVG" /></a>
 </div>
 
 # Caixas de Redes Sociais
