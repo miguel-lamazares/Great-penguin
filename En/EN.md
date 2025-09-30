@@ -85,6 +85,36 @@
 </table>
 </div>
 
+# Github 🐙
+
+<div align = "center">
+<table>
+<tr>
+<td id="skill" align = "center">
+<a href="Util/skill.md">
+<img width="50" src="/imgs/aya.jpg" alt="skill"><br>
+<b>Skill icons</b>
+</a>
+</td>
+
+<td id="auto-gif" align = "center">
+<a href="Util/auto.md">
+<img width="50" src="/imgs/robot.svg" alt="auto-gif"><br>
+<b>Auto-gif</b>
+</a>
+</td>
+
+<td id="readme" align = "center">
+<a href="Util/read.md">
+<img width="50" src="/imgs/ast.gif" alt="readme"><br>
+<b>Readme</b>
+</a>
+</td>
+
+</tr>
+</table>
+</div>
+
 # Images 🖼️
 
 <div align = "center">
