@@ -130,7 +130,7 @@
 
 <td id="gifs" align = "center">
 <a href="/imgs/gif/">
-<img width="50" src="/imgs/gif/gif.gif" alt="gifs"><br>
+<img width="50" src="/imgs/gif.gif" alt="gifs"><br>
 <b>Gifs</b>
 </a>
 </td>
