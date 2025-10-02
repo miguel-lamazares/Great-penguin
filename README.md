@@ -1,4 +1,4 @@
-# let's make your terminal, linux and github nicely and util 🐧
+# let's make your terminal, linux and github fancy and util 🐧
 
 <div align="center" id="SetALanguage">
     <h3>First, select a language</h3>
