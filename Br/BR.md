@@ -56,13 +56,13 @@
 <tr>
 
 <td id="smmd">
-<a href="Terminal/smmd.md">
+<a href="Util/smmd.md">
 <img width="50" src="/imgs/smmd.png"><br>
 <b>Atuin</b>
 </a>
 
 <td id="wine">
-<a href="Terminal/wine.md">
+<a href="Util/wine.md">
 <img width="50" src="/imgs/wine.png"><br>
 <b>Wine turbinado</b>
 </a>
