@@ -64,7 +64,7 @@
 <td id="wine">
 <a href="Util/wine.md">
 <img width="50" src="/imgs/wine.png"><br>
-<b>Wine turbinado</b>
+<b>Windox</b>
 </a>
 
 </td>
