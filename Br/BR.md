@@ -49,6 +49,30 @@
 </table>
 </div>
 
+# Linux 🐧
+
+<div align = "center">
+<table>
+<tr>
+
+<td id="smmd">
+<a href="Terminal/smmd.md">
+<img width="50" src="/imgs/smmd.png"><br>
+<b>Atuin</b>
+</a>
+
+<td id="wine">
+<a href="Terminal/wine.md">
+<img width="50" src="/imgs/wine.png"><br>
+<b>Wine turbinado</b>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+
 # Coisas Úteis e Legais 🐚
 
 <div align = "center">

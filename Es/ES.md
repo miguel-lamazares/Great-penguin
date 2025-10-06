@@ -49,6 +49,23 @@
 </table>
 </div>
 
+# Linux 🐧
+
+<div align = "center">
+<table>
+<tr>
+
+<td id="smmd">
+<a href="Terminal/smmd.md">
+<img width="50" src="/imgs/smmd.png"><br>
+<b>Atuin</b>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
 # Cosas interesantes o útiles 🐚
 
 <div align = "center">
