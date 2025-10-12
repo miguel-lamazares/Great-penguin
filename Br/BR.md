@@ -67,6 +67,12 @@
 <b>Windox</b>
 </a>
 
+<td id="gparted">
+<a href="Util/gparted.md">
+<img width="50" src="/imgs/gparted.png"><br>
+<b>Windox</b>
+</a>
+
 </td>
 </tr>
 </table>
