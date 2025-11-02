@@ -67,6 +67,17 @@
 <b>Atuin</b>
 </a>
 
+<td id="wine">
+<a href="Util/wine.md">
+<img width="50" src="/imgs/wine.png"><br>
+<b>Windox</b>
+</a>
+
+<td id="gparted">
+<a href="Util/gparted.md">
+<img width="50" src="/imgs/gparted.png"><br>
+<b>GParted</b>
+
 </td>
 </tr>
 </table>
