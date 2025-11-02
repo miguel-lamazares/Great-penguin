@@ -26,7 +26,7 @@
 
 <td id="zsh">
 <a href="Terminal/ZSH.md">
-<img width="50" src="/imgs/ZSH.jpeg"><br>
+<img width="50" src="/imgs/ZSH.png"><br>
 <b>ZSH</b>
 </a>
 </td>
