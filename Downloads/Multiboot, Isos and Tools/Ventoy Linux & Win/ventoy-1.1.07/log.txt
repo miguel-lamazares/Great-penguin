@@ -1,0 +1,1316 @@
+[2025/10/04 10:43:22] 
+[2025/10/04 10:43:22] =========================================================
+[2025/10/04 10:43:22] =========================================================
+[2025/10/04 10:43:22] =============== VentoyGui x86_64 ===============
+[2025/10/04 10:43:22] =========================================================
+[2025/10/04 10:43:22] =========================================================
+[2025/10/04 10:43:22] log file is <log.txt>
+[2025/10/04 10:43:22] pid:47136 ppid:35443 uid:1000 euid:1000
+[2025/10/04 10:43:22] adjust dir:0  current path:/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07
+[2025/10/04 10:43:22] =========RAW ARGS BEGIN===========
+[2025/10/04 10:43:22] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:43:22] =========RAW ARGS END===========
+[2025/10/04 10:43:22] uname -m <x86_64> 64bit
+[2025/10/04 10:43:22] Build bit is 64 (x86_64)
+[2025/10/04 10:43:22] Now detect the GUI type ...
+[2025/10/04 10:43:22] 2721 libs found in cache format 1
+[2025/10/04 10:43:22] LIB:<libgtk-4.so.1>
+[2025/10/04 10:43:22] LIB:<libgtk-3.so.0>
+[2025/10/04 10:43:22] LIB:<libgtk-x11-2.0.so.0>
+[2025/10/04 10:43:22] LIB:<libQt63DRender.so.6>
+[2025/10/04 10:43:22] LIB:<libQt5X11Extras.so.5>
+[2025/10/04 10:43:22] ldconfig lib flags 0x37
+[2025/10/04 10:43:22] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[YES] QT6:[YES]
+[2025/10/04 10:43:22] distro_check_gui_env ...
+[2025/10/04 10:43:22] Key arch is not found in json data.
+[2025/10/04 10:43:22] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:43:22] Key arch is not found in json data.
+[2025/10/04 10:43:22] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:43:22] Key arch is not found in json data.
+[2025/10/04 10:43:22] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:43:22] Key arch is not found in json data.
+[2025/10/04 10:43:22] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:43:22] Key arch is not found in json data.
+[2025/10/04 10:43:22] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:43:22] Key arch is not found in json data.
+[2025/10/04 10:43:22] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:43:22] Key arch is not found in json data.
+[2025/10/04 10:43:22] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:43:22] env DESKTOP_SESSION is xfce
+[2025/10/04 10:43:22] distro_check_gui <gtk3> ...
+[2025/10/04 10:43:22] This is gtk3 X environment.
+[2025/10/04 10:43:22] exe = /home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3
+[2025/10/04 10:43:22] execute permission check success.
+[2025/10/04 10:43:22] EUID check failed.
+[2025/10/04 10:43:22] try restart self by pkexec ...
+[2025/10/04 10:43:22] Find pkexec at </usr/bin/pkexec>
+[2025/10/04 10:43:22] create environment param 49
+[2025/10/04 10:43:22] =========PKEXEC ARGS BEGIN===========
+[2025/10/04 10:43:22] argv[0]=</usr/bin/pkexec>
+[2025/10/04 10:43:22] argv[1]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:43:22] argv[2]=<_vtoy_env_str_=HOME=/home/dex
+LANG=pt_BR.UTF-8
+LANGUAGE=pt_BR:pt:en
+LOGNAME=dex
+PATH=/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin
+SHELL=/usr/bin/zsh
+USER=dex
+XDG_DATA_DIRS=/usr/share/xfce4:/home/dex/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+POWERSHELL_UPDATECHECK=Off
+POWERSHELL_TELEMETRY_OPTOUT=1
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DESKTOP_SESSION=xfce
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GTK3_MODULES=xapp-gtk3-module
+NMAP_PRIVILEGED=
+OLDPWD=/home/dex
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+PWD=/home/dex
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+QT_QPA_PLATFORMTHEME=qt5ct
+SHLVL=1
+SSH_AUTH_SOCK=/run/user/1000/gcr/ssh
+XAUTHLOCALHOSTNAME=
+XAUTHORITY=/tmp/xauth_WpphWW
+XDG_CACHE_HOME=/home/dex/.cache
+XDG_CONFIG_DIRS=/etc/xdg/xdg-kali-purple:/etc/xdg::/etc/xdg
+XDG_CONFIG_HOME=/home/dex/.config
+XDG_CURRENT_DESKTOP=XFCE
+XDG_MENU_PREFIX=xfce-
+XDG_SEAT=seat0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=XFCE
+XDG_SESSION_ID=3
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_SESSION_TYPE=x11
+_=/usr/bin/dbus-update-activation-environment
+MANAGERPID=2098
+MANAGERPIDFDID=2099
+INVOCATION_ID=ae6437ad704842d2a198cb9201a7cf87
+JOURNAL_STREAM=9:945575
+SYSTEMD_EXEC_PID=35443
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/app.slice/thunar.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+DISPLAY=:0.0
+>
+[2025/10/04 10:43:22] argv[3]=<_vtoy_gui_path_=/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:43:22] =========PKEXEC ARGS END===========
+[2025/10/04 10:43:27] 
+[2025/10/04 10:43:27] =========================================================
+[2025/10/04 10:43:27] =========================================================
+[2025/10/04 10:43:27] =============== VentoyGui x86_64 ===============
+[2025/10/04 10:43:27] =========================================================
+[2025/10/04 10:43:27] =========================================================
+[2025/10/04 10:43:27] log file is <log.txt>
+[2025/10/04 10:43:27] pid:47136 ppid:35443 uid:0 euid:0
+[2025/10/04 10:43:27] adjust dir:0  current path:/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07
+[2025/10/04 10:43:27] =========RAW ARGS BEGIN===========
+[2025/10/04 10:43:27] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:43:27] argv[1]=<_vtoy_env_str_=HOME=/home/dex
+LANG=pt_BR.UTF-8
+LANGUAGE=pt_BR:pt:en
+LOGNAME=dex
+PATH=/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin
+SHELL=/usr/bin/zsh
+USER=dex
+XDG_DATA_DIRS=/usr/share/xfce4:/home/dex/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+POWERSHELL_UPDATECHECK=Off
+POWERSHELL_TELEMETRY_OPTOUT=1
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DESKTOP_SESSION=xfce
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GTK3_MODULES=xapp-gtk3-module
+NMAP_PRIVILEGED=
+OLDPWD=/home/dex
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+PWD=/home/dex
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+QT_QPA_PLATFORMTHEME=qt5ct
+SHLVL=1
+SSH_AUTH_SOCK=/run/user/1000/gcr/ssh
+XAUTHLOCALHOSTNAME=
+XAUTHORITY=/tmp/xauth_WpphWW
+XDG_CACHE_HOME=/home/dex/.cache
+XDG_CONFIG_DIRS=/etc/xdg/xdg-kali-purple:/etc/xdg::/etc/xdg
+XDG_CONFIG_HOME=/home/dex/.config
+XDG_CURRENT_DESKTOP=XFCE
+XDG_MENU_PREFIX=xfce-
+XDG_SEAT=seat0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=XFCE
+XDG_SESSION_ID=3
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_SESSION_TYPE=x11
+_=/usr/bin/dbus-update-activation-environment
+MANAGERPID=2098
+MANAGERPIDFDID=2099
+INVOCATION_ID=ae6437ad704842d2a198cb9201a7cf87
+JOURNAL_STREAM=9:945575
+SYSTEMD_EXEC_PID=35443
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/app.slice/thunar.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+DISPLAY=:0.0
+>
+[2025/10/04 10:43:27] argv[2]=<_vtoy_gui_path_=/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:43:27] =========RAW ARGS END===========
+[2025/10/04 10:43:27] recover environ 49 49
+[2025/10/04 10:43:27] recover success, argc=1 evecve </home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:43:27] =========EXECVE ARGS BEGIN===========
+[2025/10/04 10:43:27] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:43:27] =========EXECVE ARGS END===========
+[2025/10/04 10:43:27] ================================================
+[2025/10/04 10:43:27] ===== Ventoy2Disk 1.1.07 powered by GTK3.x =====
+[2025/10/04 10:43:27] ================================================
+[2025/10/04 10:43:27] log file is <log.txt> lastsize:8633
+[2025/10/04 10:43:27] ini file is <./Ventoy2Disk.ini>
+[2025/10/04 10:43:27] ventoy_disk_enumerate_all
+[2025/10/04 10:43:27] get disk info nvme0n1
+[2025/10/04 10:43:27] is 4k native disk <nvme0n1> <0>
+[2025/10/04 10:43:27] get disk size from sysfs for nvme0n1
+[2025/10/04 10:43:27] /sys/block/nvme0n1/device/vendor not exist 
+[2025/10/04 10:43:27] ventoy_get_vtoy_data /dev/nvme0n1
+[2025/10/04 10:43:27] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:43:27] disk:</dev/nvme0n1 259:0> model:< XPG GAMMIX S11 Pro (nvme)> size:256060514304 (256 GB)
+[2025/10/04 10:43:27] /dev/nvme0n1 NO Ventoy detected
+[2025/10/04 10:43:27] get disk info sdb
+[2025/10/04 10:43:27] is 4k native disk <sdb> <0>
+[2025/10/04 10:43:27] get disk size from sysfs for sdb
+[2025/10/04 10:43:27] ventoy_get_vtoy_data /dev/sdb
+[2025/10/04 10:43:27] Invalid efi part2 name <>
+[2025/10/04 10:43:27] disk:</dev/sdb 8:16> model:<ATA KINGSTON SA400S3 (scsi)> size:480103981056 (480 GB)
+[2025/10/04 10:43:27] /dev/sdb NO Ventoy detected
+[2025/10/04 10:43:27] get disk info sdc
+[2025/10/04 10:43:27] is 4k native disk <sdc> <0>
+[2025/10/04 10:43:27] get disk size from sysfs for sdc
+[2025/10/04 10:43:27] ventoy_get_vtoy_data /dev/sdc
+[2025/10/04 10:43:27] ventoy partition layout check OK: [2048 246180848] [246182896 65536]
+[2025/10/04 10:43:27] now check secure boot for /dev/sdc ...
+[2025/10/04 10:43:27] /EFI/BOOT/grubx64_real.efi find, secure boot in enabled
+[2025/10/04 10:43:27] disk:</dev/sdc 8:32> model:<SanDisk Cruzer Blade (USB)> size:126079198208 (128 GB)
+[2025/10/04 10:43:27] /dev/sdc Ventoy:<1.1.07> MBR secureboot:1 preserve:1024
+[2025/10/04 10:43:27] get disk info sda
+[2025/10/04 10:43:27] is 4k native disk <sda> <0>
+[2025/10/04 10:43:27] get disk size from sysfs for sda
+[2025/10/04 10:43:27] ventoy_get_vtoy_data /dev/sda
+[2025/10/04 10:43:27] NO ventoy efi part layout <0 0>
+[2025/10/04 10:43:27] disk:</dev/sda 8:0> model:<ATA ST500DM002-1BD14 (scsi)> size:500107862016 (512 GB)
+[2025/10/04 10:43:27] /dev/sda NO Ventoy detected
+[2025/10/04 10:43:27] ============= DISK DUMP ============
+[2025/10/04 10:43:27] /dev/sdc [128 GB] SanDisk Cruzer Blade (USB)	Ventoy: 1.1.07 MBR secureboot:1 preserve:1024
+[2025/10/04 10:43:27] /dev/nvme0n1 [256 GB]  XPG GAMMIX S11 Pro (nvme)	Ventoy: NA
+[2025/10/04 10:43:27] /dev/sda [512 GB] ATA ST500DM002-1BD14 (scsi)	Ventoy: NA
+[2025/10/04 10:43:27] /dev/sdb [480 GB] ATA KINGSTON SA400S3 (scsi)	Ventoy: NA
+[2025/10/04 10:43:27] on_init_window ...
+[2025/10/04 10:43:27] load_languages ...
+[2025/10/04 10:43:27] current language <English (English)>
+[2025/10/04 10:43:27] fill_dev_list total disk: 4 showall:0
+[2025/10/04 10:43:27] combox count:1, active:sdc id:0
+[2025/10/04 10:44:05] install_thread ...
+[2025/10/04 10:44:05] ==================================================================================
+[2025/10/04 10:44:05] ===== ventoy install /dev/sdc style:MBR secureboot:1 align4K:1 reserve:42949672960 =========
+[2025/10/04 10:44:05] ==================================================================================
+[2025/10/04 10:44:05] disk is not mounted now, we can do the install ...
+[2025/10/04 10:44:05] start install thread SanDisk Cruzer Blade (USB) ...
+[2025/10/04 10:44:05] func handler install <{ "result" : "success" }>
+[2025/10/04 10:44:05] ventoy_install_thread run ...
+[2025/10/04 10:44:05] check disk sdc
+[2025/10/04 10:44:05] set percent 1
+[2025/10/04 10:44:05] disk is not mounted now, we can do continue ...
+[2025/10/04 10:44:05] ventoy_clean_disk fd:6 size:126079198208
+[2025/10/04 10:44:05] write disk at off:0 writelen:65536 datalen:65536
+[2025/10/04 10:44:05] write disk at off:126079132672 writelen:65536 datalen:65536
+[2025/10/04 10:44:05] read core.img.xz rc:0 len:455184
+[2025/10/04 10:44:05] ventoy_unxz_stg1_img len:455184 rc:0
+[2025/10/04 10:44:05] read disk.img.xz rc:0 len:13458404
+[2025/10/04 10:44:05] set percent 11
+[2025/10/04 10:44:05] set percent 16
+[2025/10/04 10:44:05] set percent 20
+[2025/10/04 10:44:05] set percent 29
+[2025/10/04 10:44:05] set percent 35
+[2025/10/04 10:44:05] set percent 40
+[2025/10/04 10:44:05] set percent 46
+[2025/10/04 10:44:06] set percent 53
+[2025/10/04 10:44:06] ventoy_unxz_efipart_img len:13458404 rc:0 unxzlen:33554432
+[2025/10/04 10:44:06] Fill MBR part table
+[2025/10/04 10:44:06] Disk signature: 0x12f32978
+[2025/10/04 10:44:06] Disk need to align with 4KB 2
+[2025/10/04 10:44:06] ReservedSector: 83886082
+[2025/10/04 10:44:06] Part1StartSector:2048 Part1SectorCount:162294768 Part2StartSector:162296816
+[2025/10/04 10:44:06] Formatting part1 exFAT /dev/sdc ...
+[0125/10/04 10:44:06] Creating... 
+[0125/10/04 10:44:06] Flushing... 
+[2025/10/04 10:44:06] Formatting part2 EFI ...
+[2025/10/04 10:44:06] Formatting part2 EFI offset:83095969792 ...
+[2025/10/04 10:44:06] VentoyProcSecureBoot 1 ...
+[2025/10/04 10:44:06] Secure boot is enabled ...
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:44:06] Writing legacy grub ...
+[2025/10/04 10:44:06] Write MBR stage1 ...
+[2025/10/04 10:44:06] lseek offset:512(512) writelen:1048064(1048064)
+[2025/10/04 10:44:06] fsync data1...
+[2025/10/04 10:44:06] Checking part2 efi data /dev/sdc ...
+[2025/10/04 10:44:06] efi part data check success
+[2025/10/04 10:44:06] Writting Partition Table style:0...
+[2025/10/04 10:44:06] Writting MBR Partition Table 0 512
+[2025/10/04 10:44:06] fsync data2...
+[2025/10/04 10:44:06] ====================================
+[2025/10/04 10:44:06] ====== ventoy install success ======
+[2025/10/04 10:44:06] ====================================
+[2025/10/04 10:44:06] set percent 100
+[2025/10/04 10:44:06] ventoy_disk_enumerate_all
+[2025/10/04 10:44:06] get disk info nvme0n1
+[2025/10/04 10:44:06] is 4k native disk <nvme0n1> <0>
+[2025/10/04 10:44:06] get disk size from sysfs for nvme0n1
+[2025/10/04 10:44:06] /sys/block/nvme0n1/device/vendor not exist 
+[2025/10/04 10:44:06] ventoy_get_vtoy_data /dev/nvme0n1
+[2025/10/04 10:44:06] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:44:06] disk:</dev/nvme0n1 259:0> model:< XPG GAMMIX S11 Pro (nvme)> size:256060514304 (256 GB)
+[2025/10/04 10:44:06] /dev/nvme0n1 NO Ventoy detected
+[2025/10/04 10:44:06] get disk info sdb
+[2025/10/04 10:44:06] is 4k native disk <sdb> <0>
+[2025/10/04 10:44:06] get disk size from sysfs for sdb
+[2025/10/04 10:44:06] ventoy_get_vtoy_data /dev/sdb
+[2025/10/04 10:44:06] Invalid efi part2 name <>
+[2025/10/04 10:44:06] disk:</dev/sdb 8:16> model:<ATA KINGSTON SA400S3 (scsi)> size:480103981056 (480 GB)
+[2025/10/04 10:44:06] /dev/sdb NO Ventoy detected
+[2025/10/04 10:44:06] get disk info sdc
+[2025/10/04 10:44:06] is 4k native disk <sdc> <0>
+[2025/10/04 10:44:06] get disk size from sysfs for sdc
+[2025/10/04 10:44:06] ventoy_get_vtoy_data /dev/sdc
+[2025/10/04 10:44:06] ventoy partition layout check OK: [2048 162294768] [162296816 65536]
+[2025/10/04 10:44:06] now check secure boot for /dev/sdc ...
+[2025/10/04 10:44:06] /EFI/BOOT/grubx64_real.efi find, secure boot in enabled
+[2025/10/04 10:44:06] disk:</dev/sdc 8:32> model:<SanDisk Cruzer Blade (USB)> size:126079198208 (128 GB)
+[2025/10/04 10:44:06] /dev/sdc Ventoy:<1.1.07> MBR secureboot:1 preserve:42949673984
+[2025/10/04 10:44:06] get disk info sda
+[2025/10/04 10:44:06] is 4k native disk <sda> <0>
+[2025/10/04 10:44:06] get disk size from sysfs for sda
+[2025/10/04 10:44:06] ventoy_get_vtoy_data /dev/sda
+[2025/10/04 10:44:06] NO ventoy efi part layout <0 0>
+[2025/10/04 10:44:06] disk:</dev/sda 8:0> model:<ATA ST500DM002-1BD14 (scsi)> size:500107862016 (512 GB)
+[2025/10/04 10:44:06] /dev/sda NO Ventoy detected
+[2025/10/04 10:44:07] set percent 0
+[2025/10/04 10:44:07] fill_dev_list total disk: 4 showall:0
+[2025/10/04 10:44:07] combox count:1, active:sdc id:0
+[2025/10/04 10:44:50] 
+[2025/10/04 10:44:50] =========================================================
+[2025/10/04 10:44:50] =========================================================
+[2025/10/04 10:44:50] =============== VentoyGui x86_64 ===============
+[2025/10/04 10:44:50] =========================================================
+[2025/10/04 10:44:50] =========================================================
+[2025/10/04 10:44:50] log file is <log.txt>
+[2025/10/04 10:44:50] pid:47175 ppid:35443 uid:1000 euid:1000
+[2025/10/04 10:44:50] adjust dir:0  current path:/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07
+[2025/10/04 10:44:50] =========RAW ARGS BEGIN===========
+[2025/10/04 10:44:50] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:44:50] =========RAW ARGS END===========
+[2025/10/04 10:44:50] uname -m <x86_64> 64bit
+[2025/10/04 10:44:50] Build bit is 64 (x86_64)
+[2025/10/04 10:44:50] Now detect the GUI type ...
+[2025/10/04 10:44:50] 2721 libs found in cache format 1
+[2025/10/04 10:44:50] LIB:<libgtk-4.so.1>
+[2025/10/04 10:44:50] LIB:<libgtk-3.so.0>
+[2025/10/04 10:44:50] LIB:<libgtk-x11-2.0.so.0>
+[2025/10/04 10:44:50] LIB:<libQt63DRender.so.6>
+[2025/10/04 10:44:50] LIB:<libQt5X11Extras.so.5>
+[2025/10/04 10:44:50] ldconfig lib flags 0x37
+[2025/10/04 10:44:50] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[YES] QT6:[YES]
+[2025/10/04 10:44:50] distro_check_gui_env ...
+[2025/10/04 10:44:50] Key arch is not found in json data.
+[2025/10/04 10:44:50] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:44:50] Key arch is not found in json data.
+[2025/10/04 10:44:50] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:44:50] Key arch is not found in json data.
+[2025/10/04 10:44:50] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:44:50] Key arch is not found in json data.
+[2025/10/04 10:44:50] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:44:50] Key arch is not found in json data.
+[2025/10/04 10:44:50] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:44:50] Key arch is not found in json data.
+[2025/10/04 10:44:50] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:44:50] Key arch is not found in json data.
+[2025/10/04 10:44:50] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:44:50] env DESKTOP_SESSION is xfce
+[2025/10/04 10:44:50] distro_check_gui <gtk3> ...
+[2025/10/04 10:44:50] This is gtk3 X environment.
+[2025/10/04 10:44:50] exe = /home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3
+[2025/10/04 10:44:50] execute permission check success.
+[2025/10/04 10:44:50] EUID check failed.
+[2025/10/04 10:44:50] try restart self by pkexec ...
+[2025/10/04 10:44:50] Find pkexec at </usr/bin/pkexec>
+[2025/10/04 10:44:50] create environment param 49
+[2025/10/04 10:44:50] =========PKEXEC ARGS BEGIN===========
+[2025/10/04 10:44:50] argv[0]=</usr/bin/pkexec>
+[2025/10/04 10:44:50] argv[1]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:44:50] argv[2]=<_vtoy_env_str_=HOME=/home/dex
+LANG=pt_BR.UTF-8
+LANGUAGE=pt_BR:pt:en
+LOGNAME=dex
+PATH=/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin
+SHELL=/usr/bin/zsh
+USER=dex
+XDG_DATA_DIRS=/usr/share/xfce4:/home/dex/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+POWERSHELL_UPDATECHECK=Off
+POWERSHELL_TELEMETRY_OPTOUT=1
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DESKTOP_SESSION=xfce
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GTK3_MODULES=xapp-gtk3-module
+NMAP_PRIVILEGED=
+OLDPWD=/home/dex
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+PWD=/home/dex
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+QT_QPA_PLATFORMTHEME=qt5ct
+SHLVL=1
+SSH_AUTH_SOCK=/run/user/1000/gcr/ssh
+XAUTHLOCALHOSTNAME=
+XAUTHORITY=/tmp/xauth_WpphWW
+XDG_CACHE_HOME=/home/dex/.cache
+XDG_CONFIG_DIRS=/etc/xdg/xdg-kali-purple:/etc/xdg::/etc/xdg
+XDG_CONFIG_HOME=/home/dex/.config
+XDG_CURRENT_DESKTOP=XFCE
+XDG_MENU_PREFIX=xfce-
+XDG_SEAT=seat0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=XFCE
+XDG_SESSION_ID=3
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_SESSION_TYPE=x11
+_=/usr/bin/dbus-update-activation-environment
+MANAGERPID=2098
+MANAGERPIDFDID=2099
+INVOCATION_ID=ae6437ad704842d2a198cb9201a7cf87
+JOURNAL_STREAM=9:945575
+SYSTEMD_EXEC_PID=35443
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/app.slice/thunar.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+DISPLAY=:0.0
+>
+[2025/10/04 10:44:50] argv[3]=<_vtoy_gui_path_=/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:44:50] =========PKEXEC ARGS END===========
+[2025/10/04 10:44:55] 
+[2025/10/04 10:44:55] =========================================================
+[2025/10/04 10:44:55] =========================================================
+[2025/10/04 10:44:55] =============== VentoyGui x86_64 ===============
+[2025/10/04 10:44:55] =========================================================
+[2025/10/04 10:44:55] =========================================================
+[2025/10/04 10:44:55] log file is <log.txt>
+[2025/10/04 10:44:55] pid:47175 ppid:35443 uid:0 euid:0
+[2025/10/04 10:44:55] adjust dir:0  current path:/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07
+[2025/10/04 10:44:55] =========RAW ARGS BEGIN===========
+[2025/10/04 10:44:55] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:44:55] argv[1]=<_vtoy_env_str_=HOME=/home/dex
+LANG=pt_BR.UTF-8
+LANGUAGE=pt_BR:pt:en
+LOGNAME=dex
+PATH=/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin
+SHELL=/usr/bin/zsh
+USER=dex
+XDG_DATA_DIRS=/usr/share/xfce4:/home/dex/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+POWERSHELL_UPDATECHECK=Off
+POWERSHELL_TELEMETRY_OPTOUT=1
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DESKTOP_SESSION=xfce
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GTK3_MODULES=xapp-gtk3-module
+NMAP_PRIVILEGED=
+OLDPWD=/home/dex
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+PWD=/home/dex
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+QT_QPA_PLATFORMTHEME=qt5ct
+SHLVL=1
+SSH_AUTH_SOCK=/run/user/1000/gcr/ssh
+XAUTHLOCALHOSTNAME=
+XAUTHORITY=/tmp/xauth_WpphWW
+XDG_CACHE_HOME=/home/dex/.cache
+XDG_CONFIG_DIRS=/etc/xdg/xdg-kali-purple:/etc/xdg::/etc/xdg
+XDG_CONFIG_HOME=/home/dex/.config
+XDG_CURRENT_DESKTOP=XFCE
+XDG_MENU_PREFIX=xfce-
+XDG_SEAT=seat0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=XFCE
+XDG_SESSION_ID=3
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_SESSION_TYPE=x11
+_=/usr/bin/dbus-update-activation-environment
+MANAGERPID=2098
+MANAGERPIDFDID=2099
+INVOCATION_ID=ae6437ad704842d2a198cb9201a7cf87
+JOURNAL_STREAM=9:945575
+SYSTEMD_EXEC_PID=35443
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/app.slice/thunar.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+DISPLAY=:0.0
+>
+[2025/10/04 10:44:55] argv[2]=<_vtoy_gui_path_=/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:44:55] =========RAW ARGS END===========
+[2025/10/04 10:44:55] recover environ 49 49
+[2025/10/04 10:44:55] recover success, argc=1 evecve </home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:44:55] =========EXECVE ARGS BEGIN===========
+[2025/10/04 10:44:55] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:44:55] =========EXECVE ARGS END===========
+[2025/10/04 10:44:55] ================================================
+[2025/10/04 10:44:55] ===== Ventoy2Disk 1.1.07 powered by GTK3.x =====
+[2025/10/04 10:44:55] ================================================
+[2025/10/04 10:44:55] log file is <log.txt> lastsize:27664
+[2025/10/04 10:44:55] ini file is <./Ventoy2Disk.ini>
+[2025/10/04 10:44:55] ventoy_disk_enumerate_all
+[2025/10/04 10:44:55] get disk info nvme0n1
+[2025/10/04 10:44:55] is 4k native disk <nvme0n1> <0>
+[2025/10/04 10:44:55] get disk size from sysfs for nvme0n1
+[2025/10/04 10:44:55] /sys/block/nvme0n1/device/vendor not exist 
+[2025/10/04 10:44:55] ventoy_get_vtoy_data /dev/nvme0n1
+[2025/10/04 10:44:55] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:44:55] disk:</dev/nvme0n1 259:0> model:< XPG GAMMIX S11 Pro (nvme)> size:256060514304 (256 GB)
+[2025/10/04 10:44:55] /dev/nvme0n1 NO Ventoy detected
+[2025/10/04 10:44:55] get disk info sdb
+[2025/10/04 10:44:55] is 4k native disk <sdb> <0>
+[2025/10/04 10:44:55] get disk size from sysfs for sdb
+[2025/10/04 10:44:55] ventoy_get_vtoy_data /dev/sdb
+[2025/10/04 10:44:55] Invalid efi part2 name <>
+[2025/10/04 10:44:55] disk:</dev/sdb 8:16> model:<ATA KINGSTON SA400S3 (scsi)> size:480103981056 (480 GB)
+[2025/10/04 10:44:55] /dev/sdb NO Ventoy detected
+[2025/10/04 10:44:55] get disk info sdc
+[2025/10/04 10:44:55] is 4k native disk <sdc> <0>
+[2025/10/04 10:44:55] get disk size from sysfs for sdc
+[2025/10/04 10:44:55] ventoy_get_vtoy_data /dev/sdc
+[2025/10/04 10:44:55] ventoy partition layout check OK: [2048 162294768] [162296816 65536]
+[2025/10/04 10:44:55] now check secure boot for /dev/sdc ...
+[2025/10/04 10:44:55] /EFI/BOOT/grubx64_real.efi find, secure boot in enabled
+[2025/10/04 10:44:55] disk:</dev/sdc 8:32> model:<SanDisk Cruzer Blade (USB)> size:126079198208 (128 GB)
+[2025/10/04 10:44:55] /dev/sdc Ventoy:<1.1.07> MBR secureboot:1 preserve:42949673984
+[2025/10/04 10:44:55] get disk info sda
+[2025/10/04 10:44:55] is 4k native disk <sda> <0>
+[2025/10/04 10:44:55] get disk size from sysfs for sda
+[2025/10/04 10:44:55] ventoy_get_vtoy_data /dev/sda
+[2025/10/04 10:44:55] NO ventoy efi part layout <0 0>
+[2025/10/04 10:44:55] disk:</dev/sda 8:0> model:<ATA ST500DM002-1BD14 (scsi)> size:500107862016 (512 GB)
+[2025/10/04 10:44:55] /dev/sda NO Ventoy detected
+[2025/10/04 10:44:55] ============= DISK DUMP ============
+[2025/10/04 10:44:55] /dev/sdc [128 GB] SanDisk Cruzer Blade (USB)	Ventoy: 1.1.07 MBR secureboot:1 preserve:42949673984
+[2025/10/04 10:44:55] /dev/nvme0n1 [256 GB]  XPG GAMMIX S11 Pro (nvme)	Ventoy: NA
+[2025/10/04 10:44:55] /dev/sda [512 GB] ATA ST500DM002-1BD14 (scsi)	Ventoy: NA
+[2025/10/04 10:44:55] /dev/sdb [480 GB] ATA KINGSTON SA400S3 (scsi)	Ventoy: NA
+[2025/10/04 10:44:55] on_init_window ...
+[2025/10/04 10:44:55] load_languages ...
+[2025/10/04 10:44:55] current language <English (English)>
+[2025/10/04 10:44:55] fill_dev_list total disk: 4 showall:0
+[2025/10/04 10:44:55] combox count:1, active:sdc id:0
+[2025/10/04 10:44:58] ==================================
+[2025/10/04 10:44:58] ===== ventoy clean /dev/sdc =====
+[2025/10/04 10:44:58] ==================================
+[2025/10/04 10:44:58] disk is not mounted now, we can do the clean ...
+[2025/10/04 10:44:58] start clean SanDisk Cruzer Blade (USB) ...
+[2025/10/04 10:44:58] ventoy_clean_disk fd:6 size:126079198208
+[2025/10/04 10:44:58] write disk at off:0 writelen:65536 datalen:65536
+[2025/10/04 10:44:58] write disk at off:126079132672 writelen:65536 datalen:65536
+[2025/10/04 10:44:58] func handler clean <{ "result" : "success" }>
+[2025/10/04 10:44:58] ventoy_disk_enumerate_all
+[2025/10/04 10:44:58] get disk info nvme0n1
+[2025/10/04 10:44:58] is 4k native disk <nvme0n1> <0>
+[2025/10/04 10:44:58] get disk size from sysfs for nvme0n1
+[2025/10/04 10:44:58] /sys/block/nvme0n1/device/vendor not exist 
+[2025/10/04 10:44:58] ventoy_get_vtoy_data /dev/nvme0n1
+[2025/10/04 10:44:58] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:44:58] disk:</dev/nvme0n1 259:0> model:< XPG GAMMIX S11 Pro (nvme)> size:256060514304 (256 GB)
+[2025/10/04 10:44:58] /dev/nvme0n1 NO Ventoy detected
+[2025/10/04 10:44:58] get disk info sdb
+[2025/10/04 10:44:58] is 4k native disk <sdb> <0>
+[2025/10/04 10:44:58] get disk size from sysfs for sdb
+[2025/10/04 10:44:58] ventoy_get_vtoy_data /dev/sdb
+[2025/10/04 10:44:58] Invalid efi part2 name <>
+[2025/10/04 10:44:58] disk:</dev/sdb 8:16> model:<ATA KINGSTON SA400S3 (scsi)> size:480103981056 (480 GB)
+[2025/10/04 10:44:58] /dev/sdb NO Ventoy detected
+[2025/10/04 10:44:58] get disk info sdc
+[2025/10/04 10:44:58] is 4k native disk <sdc> <0>
+[2025/10/04 10:44:58] get disk size from sysfs for sdc
+[2025/10/04 10:44:58] ventoy_get_vtoy_data /dev/sdc
+[2025/10/04 10:44:58] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:44:58] disk:</dev/sdc 8:32> model:<SanDisk Cruzer Blade (USB)> size:126079198208 (128 GB)
+[2025/10/04 10:44:58] /dev/sdc NO Ventoy detected
+[2025/10/04 10:44:58] get disk info sda
+[2025/10/04 10:44:58] is 4k native disk <sda> <0>
+[2025/10/04 10:44:58] get disk size from sysfs for sda
+[2025/10/04 10:44:58] ventoy_get_vtoy_data /dev/sda
+[2025/10/04 10:44:58] NO ventoy efi part layout <0 0>
+[2025/10/04 10:44:58] disk:</dev/sda 8:0> model:<ATA ST500DM002-1BD14 (scsi)> size:500107862016 (512 GB)
+[2025/10/04 10:44:58] /dev/sda NO Ventoy detected
+[2025/10/04 10:44:59] set percent 0
+[2025/10/04 10:44:59] fill_dev_list total disk: 4 showall:0
+[2025/10/04 10:44:59] combox count:1, active:sdc id:0
+[2025/10/04 10:45:35] on_exit_window ...
+[2025/10/04 10:45:35] ######## Ventoy2Disk GTK 1.1.07 exit ########
+[2025/10/04 10:45:54] 
+[2025/10/04 10:45:54] =========================================================
+[2025/10/04 10:45:54] =========================================================
+[2025/10/04 10:45:54] =============== VentoyGui x86_64 ===============
+[2025/10/04 10:45:54] =========================================================
+[2025/10/04 10:45:54] =========================================================
+[2025/10/04 10:45:54] log file is <log.txt>
+[2025/10/04 10:45:54] pid:47662 ppid:35443 uid:1000 euid:1000
+[2025/10/04 10:45:54] adjust dir:0  current path:/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07
+[2025/10/04 10:45:54] =========RAW ARGS BEGIN===========
+[2025/10/04 10:45:54] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:45:54] =========RAW ARGS END===========
+[2025/10/04 10:45:54] uname -m <x86_64> 64bit
+[2025/10/04 10:45:54] Build bit is 64 (x86_64)
+[2025/10/04 10:45:54] Now detect the GUI type ...
+[2025/10/04 10:45:54] 2721 libs found in cache format 1
+[2025/10/04 10:45:54] LIB:<libgtk-4.so.1>
+[2025/10/04 10:45:54] LIB:<libgtk-3.so.0>
+[2025/10/04 10:45:54] LIB:<libgtk-x11-2.0.so.0>
+[2025/10/04 10:45:54] LIB:<libQt63DRender.so.6>
+[2025/10/04 10:45:54] LIB:<libQt5X11Extras.so.5>
+[2025/10/04 10:45:54] ldconfig lib flags 0x37
+[2025/10/04 10:45:54] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[YES] QT6:[YES]
+[2025/10/04 10:45:54] distro_check_gui_env ...
+[2025/10/04 10:45:54] Key arch is not found in json data.
+[2025/10/04 10:45:54] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:45:54] Key arch is not found in json data.
+[2025/10/04 10:45:54] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:45:54] Key arch is not found in json data.
+[2025/10/04 10:45:54] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:45:54] Key arch is not found in json data.
+[2025/10/04 10:45:54] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:45:54] Key arch is not found in json data.
+[2025/10/04 10:45:54] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:45:54] Key arch is not found in json data.
+[2025/10/04 10:45:54] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:45:54] Key arch is not found in json data.
+[2025/10/04 10:45:54] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:45:54] env DESKTOP_SESSION is xfce
+[2025/10/04 10:45:54] distro_check_gui <gtk3> ...
+[2025/10/04 10:45:54] This is gtk3 X environment.
+[2025/10/04 10:45:54] exe = /home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3
+[2025/10/04 10:45:54] execute permission check success.
+[2025/10/04 10:45:54] EUID check failed.
+[2025/10/04 10:45:54] try restart self by pkexec ...
+[2025/10/04 10:45:54] Find pkexec at </usr/bin/pkexec>
+[2025/10/04 10:45:54] create environment param 49
+[2025/10/04 10:45:54] =========PKEXEC ARGS BEGIN===========
+[2025/10/04 10:45:54] argv[0]=</usr/bin/pkexec>
+[2025/10/04 10:45:54] argv[1]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:45:54] argv[2]=<_vtoy_env_str_=HOME=/home/dex
+LANG=pt_BR.UTF-8
+LANGUAGE=pt_BR:pt:en
+LOGNAME=dex
+PATH=/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin
+SHELL=/usr/bin/zsh
+USER=dex
+XDG_DATA_DIRS=/usr/share/xfce4:/home/dex/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+POWERSHELL_UPDATECHECK=Off
+POWERSHELL_TELEMETRY_OPTOUT=1
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DESKTOP_SESSION=xfce
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GTK3_MODULES=xapp-gtk3-module
+NMAP_PRIVILEGED=
+OLDPWD=/home/dex
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+PWD=/home/dex
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+QT_QPA_PLATFORMTHEME=qt5ct
+SHLVL=1
+SSH_AUTH_SOCK=/run/user/1000/gcr/ssh
+XAUTHLOCALHOSTNAME=
+XAUTHORITY=/tmp/xauth_WpphWW
+XDG_CACHE_HOME=/home/dex/.cache
+XDG_CONFIG_DIRS=/etc/xdg/xdg-kali-purple:/etc/xdg::/etc/xdg
+XDG_CONFIG_HOME=/home/dex/.config
+XDG_CURRENT_DESKTOP=XFCE
+XDG_MENU_PREFIX=xfce-
+XDG_SEAT=seat0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=XFCE
+XDG_SESSION_ID=3
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_SESSION_TYPE=x11
+_=/usr/bin/dbus-update-activation-environment
+MANAGERPID=2098
+MANAGERPIDFDID=2099
+INVOCATION_ID=ae6437ad704842d2a198cb9201a7cf87
+JOURNAL_STREAM=9:945575
+SYSTEMD_EXEC_PID=35443
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/app.slice/thunar.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+DISPLAY=:0.0
+>
+[2025/10/04 10:45:54] argv[3]=<_vtoy_gui_path_=/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:45:54] =========PKEXEC ARGS END===========
+[2025/10/04 10:45:58] 
+[2025/10/04 10:45:58] =========================================================
+[2025/10/04 10:45:58] =========================================================
+[2025/10/04 10:45:58] =============== VentoyGui x86_64 ===============
+[2025/10/04 10:45:58] =========================================================
+[2025/10/04 10:45:58] =========================================================
+[2025/10/04 10:45:58] log file is <log.txt>
+[2025/10/04 10:45:58] pid:47662 ppid:35443 uid:0 euid:0
+[2025/10/04 10:45:58] adjust dir:0  current path:/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07
+[2025/10/04 10:45:58] =========RAW ARGS BEGIN===========
+[2025/10/04 10:45:58] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:45:58] argv[1]=<_vtoy_env_str_=HOME=/home/dex
+LANG=pt_BR.UTF-8
+LANGUAGE=pt_BR:pt:en
+LOGNAME=dex
+PATH=/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin
+SHELL=/usr/bin/zsh
+USER=dex
+XDG_DATA_DIRS=/usr/share/xfce4:/home/dex/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share
+XDG_RUNTIME_DIR=/run/user/1000
+QT_ACCESSIBILITY=1
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+POWERSHELL_UPDATECHECK=Off
+POWERSHELL_TELEMETRY_OPTOUT=1
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+DESKTOP_SESSION=xfce
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+GTK3_MODULES=xapp-gtk3-module
+NMAP_PRIVILEGED=
+OLDPWD=/home/dex
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+PWD=/home/dex
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+QT_QPA_PLATFORMTHEME=qt5ct
+SHLVL=1
+SSH_AUTH_SOCK=/run/user/1000/gcr/ssh
+XAUTHLOCALHOSTNAME=
+XAUTHORITY=/tmp/xauth_WpphWW
+XDG_CACHE_HOME=/home/dex/.cache
+XDG_CONFIG_DIRS=/etc/xdg/xdg-kali-purple:/etc/xdg::/etc/xdg
+XDG_CONFIG_HOME=/home/dex/.config
+XDG_CURRENT_DESKTOP=XFCE
+XDG_MENU_PREFIX=xfce-
+XDG_SEAT=seat0
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_SESSION_CLASS=user
+XDG_SESSION_DESKTOP=XFCE
+XDG_SESSION_ID=3
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_SESSION_TYPE=x11
+_=/usr/bin/dbus-update-activation-environment
+MANAGERPID=2098
+MANAGERPIDFDID=2099
+INVOCATION_ID=ae6437ad704842d2a198cb9201a7cf87
+JOURNAL_STREAM=9:945575
+SYSTEMD_EXEC_PID=35443
+MEMORY_PRESSURE_WATCH=/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/app.slice/thunar.service/memory.pressure
+MEMORY_PRESSURE_WRITE=c29tZSAyMDAwMDAgMjAwMDAwMAA=
+DISPLAY=:0.0
+>
+[2025/10/04 10:45:58] argv[2]=<_vtoy_gui_path_=/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:45:58] =========RAW ARGS END===========
+[2025/10/04 10:45:58] recover environ 49 49
+[2025/10/04 10:45:58] recover success, argc=1 evecve </home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:45:58] =========EXECVE ARGS BEGIN===========
+[2025/10/04 10:45:58] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:45:58] =========EXECVE ARGS END===========
+[2025/10/04 10:45:58] ================================================
+[2025/10/04 10:45:58] ===== Ventoy2Disk 1.1.07 powered by GTK3.x =====
+[2025/10/04 10:45:58] ================================================
+[2025/10/04 10:45:58] log file is <log.txt> lastsize:41855
+[2025/10/04 10:45:58] ini file is <./Ventoy2Disk.ini>
+[2025/10/04 10:45:58] ventoy_disk_enumerate_all
+[2025/10/04 10:45:58] get disk info nvme0n1
+[2025/10/04 10:45:58] is 4k native disk <nvme0n1> <0>
+[2025/10/04 10:45:58] get disk size from sysfs for nvme0n1
+[2025/10/04 10:45:58] /sys/block/nvme0n1/device/vendor not exist 
+[2025/10/04 10:45:58] ventoy_get_vtoy_data /dev/nvme0n1
+[2025/10/04 10:45:58] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:45:58] disk:</dev/nvme0n1 259:0> model:< XPG GAMMIX S11 Pro (nvme)> size:256060514304 (256 GB)
+[2025/10/04 10:45:58] /dev/nvme0n1 NO Ventoy detected
+[2025/10/04 10:45:58] get disk info sdb
+[2025/10/04 10:45:58] is 4k native disk <sdb> <0>
+[2025/10/04 10:45:58] get disk size from sysfs for sdb
+[2025/10/04 10:45:58] ventoy_get_vtoy_data /dev/sdb
+[2025/10/04 10:45:58] Invalid efi part2 name <>
+[2025/10/04 10:45:58] disk:</dev/sdb 8:16> model:<ATA KINGSTON SA400S3 (scsi)> size:480103981056 (480 GB)
+[2025/10/04 10:45:58] /dev/sdb NO Ventoy detected
+[2025/10/04 10:45:58] get disk info sdc
+[2025/10/04 10:45:58] is 4k native disk <sdc> <0>
+[2025/10/04 10:45:58] get disk size from sysfs for sdc
+[2025/10/04 10:45:58] ventoy_get_vtoy_data /dev/sdc
+[2025/10/04 10:45:58] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:45:58] disk:</dev/sdc 8:32> model:<SanDisk Cruzer Blade (USB)> size:126079198208 (128 GB)
+[2025/10/04 10:45:58] /dev/sdc NO Ventoy detected
+[2025/10/04 10:45:58] get disk info sda
+[2025/10/04 10:45:58] is 4k native disk <sda> <0>
+[2025/10/04 10:45:58] get disk size from sysfs for sda
+[2025/10/04 10:45:58] ventoy_get_vtoy_data /dev/sda
+[2025/10/04 10:45:58] NO ventoy efi part layout <0 0>
+[2025/10/04 10:45:58] disk:</dev/sda 8:0> model:<ATA ST500DM002-1BD14 (scsi)> size:500107862016 (512 GB)
+[2025/10/04 10:45:58] /dev/sda NO Ventoy detected
+[2025/10/04 10:45:58] ============= DISK DUMP ============
+[2025/10/04 10:45:58] /dev/sdc [128 GB] SanDisk Cruzer Blade (USB)	Ventoy: NA
+[2025/10/04 10:45:58] /dev/nvme0n1 [256 GB]  XPG GAMMIX S11 Pro (nvme)	Ventoy: NA
+[2025/10/04 10:45:58] /dev/sda [512 GB] ATA ST500DM002-1BD14 (scsi)	Ventoy: NA
+[2025/10/04 10:45:58] /dev/sdb [480 GB] ATA KINGSTON SA400S3 (scsi)	Ventoy: NA
+[2025/10/04 10:45:58] on_init_window ...
+[2025/10/04 10:45:58] load_languages ...
+[2025/10/04 10:45:58] current language <English (English)>
+[2025/10/04 10:45:58] fill_dev_list total disk: 4 showall:0
+[2025/10/04 10:45:58] combox count:1, active:sdc id:0
+[2025/10/04 10:46:04] install_thread ...
+[2025/10/04 10:46:04] ==================================================================================
+[2025/10/04 10:46:04] ===== ventoy install /dev/sdc style:MBR secureboot:1 align4K:1 reserve:0 =========
+[2025/10/04 10:46:04] ==================================================================================
+[2025/10/04 10:46:04] disk is not mounted now, we can do the install ...
+[2025/10/04 10:46:04] start install thread SanDisk Cruzer Blade (USB) ...
+[2025/10/04 10:46:04] func handler install <{ "result" : "success" }>
+[2025/10/04 10:46:04] ventoy_install_thread run ...
+[2025/10/04 10:46:04] check disk sdc
+[2025/10/04 10:46:04] set percent 1
+[2025/10/04 10:46:04] disk is not mounted now, we can do continue ...
+[2025/10/04 10:46:04] ventoy_clean_disk fd:6 size:126079198208
+[2025/10/04 10:46:04] write disk at off:0 writelen:65536 datalen:65536
+[2025/10/04 10:46:04] write disk at off:126079132672 writelen:65536 datalen:65536
+[2025/10/04 10:46:04] read core.img.xz rc:0 len:455184
+[2025/10/04 10:46:04] ventoy_unxz_stg1_img len:455184 rc:0
+[2025/10/04 10:46:04] read disk.img.xz rc:0 len:13458404
+[2025/10/04 10:46:05] set percent 11
+[2025/10/04 10:46:05] set percent 16
+[2025/10/04 10:46:05] set percent 20
+[2025/10/04 10:46:05] set percent 29
+[2025/10/04 10:46:05] set percent 35
+[2025/10/04 10:46:05] set percent 40
+[2025/10/04 10:46:05] set percent 46
+[2025/10/04 10:46:05] set percent 53
+[2025/10/04 10:46:05] ventoy_unxz_efipart_img len:13458404 rc:0 unxzlen:33554432
+[2025/10/04 10:46:05] Fill MBR part table
+[2025/10/04 10:46:05] Disk signature: 0x57232c46
+[2025/10/04 10:46:05] Disk need to align with 4KB 2
+[2025/10/04 10:46:05] ReservedSector: 2
+[2025/10/04 10:46:05] Part1StartSector:2048 Part1SectorCount:246180848 Part2StartSector:246182896
+[2025/10/04 10:46:05] Formatting part1 exFAT /dev/sdc ...
+[0125/10/04 10:46:05] Creating... 
+[0125/10/04 10:46:05] Flushing... 
+[2025/10/04 10:46:05] Formatting part2 EFI ...
+[2025/10/04 10:46:05] Formatting part2 EFI offset:126045642752 ...
+[2025/10/04 10:46:05] VentoyProcSecureBoot 1 ...
+[2025/10/04 10:46:05] Secure boot is enabled ...
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:46:05] Writing legacy grub ...
+[2025/10/04 10:46:05] Write MBR stage1 ...
+[2025/10/04 10:46:05] lseek offset:512(512) writelen:1048064(1048064)
+[2025/10/04 10:46:05] fsync data1...
+[2025/10/04 10:46:05] Checking part2 efi data /dev/sdc ...
+[2025/10/04 10:46:05] efi part data check success
+[2025/10/04 10:46:05] Writting Partition Table style:0...
+[2025/10/04 10:46:05] Writting MBR Partition Table 0 512
+[2025/10/04 10:46:05] fsync data2...
+[2025/10/04 10:46:05] ====================================
+[2025/10/04 10:46:05] ====== ventoy install success ======
+[2025/10/04 10:46:05] ====================================
+[2025/10/04 10:46:05] set percent 100
+[2025/10/04 10:46:05] ventoy_disk_enumerate_all
+[2025/10/04 10:46:05] get disk info nvme0n1
+[2025/10/04 10:46:05] is 4k native disk <nvme0n1> <0>
+[2025/10/04 10:46:05] get disk size from sysfs for nvme0n1
+[2025/10/04 10:46:05] /sys/block/nvme0n1/device/vendor not exist 
+[2025/10/04 10:46:05] ventoy_get_vtoy_data /dev/nvme0n1
+[2025/10/04 10:46:05] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:46:05] disk:</dev/nvme0n1 259:0> model:< XPG GAMMIX S11 Pro (nvme)> size:256060514304 (256 GB)
+[2025/10/04 10:46:05] /dev/nvme0n1 NO Ventoy detected
+[2025/10/04 10:46:05] get disk info sdb
+[2025/10/04 10:46:05] is 4k native disk <sdb> <0>
+[2025/10/04 10:46:05] get disk size from sysfs for sdb
+[2025/10/04 10:46:05] ventoy_get_vtoy_data /dev/sdb
+[2025/10/04 10:46:05] Invalid efi part2 name <>
+[2025/10/04 10:46:05] disk:</dev/sdb 8:16> model:<ATA KINGSTON SA400S3 (scsi)> size:480103981056 (480 GB)
+[2025/10/04 10:46:05] /dev/sdb NO Ventoy detected
+[2025/10/04 10:46:05] get disk info sdc
+[2025/10/04 10:46:05] is 4k native disk <sdc> <0>
+[2025/10/04 10:46:05] get disk size from sysfs for sdc
+[2025/10/04 10:46:05] ventoy_get_vtoy_data /dev/sdc
+[2025/10/04 10:46:05] ventoy partition layout check OK: [2048 246180848] [246182896 65536]
+[2025/10/04 10:46:05] now check secure boot for /dev/sdc ...
+[2025/10/04 10:46:05] /EFI/BOOT/grubx64_real.efi find, secure boot in enabled
+[2025/10/04 10:46:05] disk:</dev/sdc 8:32> model:<SanDisk Cruzer Blade (USB)> size:126079198208 (128 GB)
+[2025/10/04 10:46:05] /dev/sdc Ventoy:<1.1.07> MBR secureboot:1 preserve:1024
+[2025/10/04 10:46:05] get disk info sda
+[2025/10/04 10:46:05] is 4k native disk <sda> <0>
+[2025/10/04 10:46:05] get disk size from sysfs for sda
+[2025/10/04 10:46:05] ventoy_get_vtoy_data /dev/sda
+[2025/10/04 10:46:05] NO ventoy efi part layout <0 0>
+[2025/10/04 10:46:05] disk:</dev/sda 8:0> model:<ATA ST500DM002-1BD14 (scsi)> size:500107862016 (512 GB)
+[2025/10/04 10:46:05] /dev/sda NO Ventoy detected
+[2025/10/04 10:46:06] set percent 0
+[2025/10/04 10:46:06] fill_dev_list total disk: 4 showall:0
+[2025/10/04 10:46:06] combox count:1, active:sdc id:0
+[2025/10/04 10:51:04] 
+[2025/10/04 10:51:04] =========================================================
+[2025/10/04 10:51:04] =========================================================
+[2025/10/04 10:51:04] =============== VentoyGui x86_64 ===============
+[2025/10/04 10:51:04] =========================================================
+[2025/10/04 10:51:04] =========================================================
+[2025/10/04 10:51:04] log file is <log.txt>
+[2025/10/04 10:51:04] pid:3462 ppid:1902 uid:1000 euid:1000
+[2025/10/04 10:51:04] adjust dir:0  current path:/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07
+[2025/10/04 10:51:04] =========RAW ARGS BEGIN===========
+[2025/10/04 10:51:04] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:51:04] =========RAW ARGS END===========
+[2025/10/04 10:51:04] uname -m <x86_64> 64bit
+[2025/10/04 10:51:04] Build bit is 64 (x86_64)
+[2025/10/04 10:51:04] Now detect the GUI type ...
+[2025/10/04 10:51:04] 2721 libs found in cache format 1
+[2025/10/04 10:51:04] LIB:<libgtk-4.so.1>
+[2025/10/04 10:51:04] LIB:<libgtk-3.so.0>
+[2025/10/04 10:51:04] LIB:<libgtk-x11-2.0.so.0>
+[2025/10/04 10:51:04] LIB:<libQt63DRender.so.6>
+[2025/10/04 10:51:04] LIB:<libQt5X11Extras.so.5>
+[2025/10/04 10:51:04] ldconfig lib flags 0x37
+[2025/10/04 10:51:04] lib flags GLADE2:[NO] GTK2:[YES] GTK3:[YES] GTK4:[YES] QT4:[NO] QT5:[YES] QT6:[YES]
+[2025/10/04 10:51:04] distro_check_gui_env ...
+[2025/10/04 10:51:04] Key arch is not found in json data.
+[2025/10/04 10:51:04] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:51:04] Key arch is not found in json data.
+[2025/10/04 10:51:04] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:51:04] Key arch is not found in json data.
+[2025/10/04 10:51:04] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:51:04] Key arch is not found in json data.
+[2025/10/04 10:51:04] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:51:04] Key arch is not found in json data.
+[2025/10/04 10:51:04] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:51:04] Key arch is not found in json data.
+[2025/10/04 10:51:04] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:51:04] Key arch is not found in json data.
+[2025/10/04 10:51:04] check <env> <DESKTOP_SESSION> <equal>
+[2025/10/04 10:51:04] env DESKTOP_SESSION is xfce
+[2025/10/04 10:51:04] distro_check_gui <gtk3> ...
+[2025/10/04 10:51:04] This is gtk3 X environment.
+[2025/10/04 10:51:04] exe = /home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3
+[2025/10/04 10:51:04] execute permission check success.
+[2025/10/04 10:51:04] EUID check failed.
+[2025/10/04 10:51:04] try restart self by pkexec ...
+[2025/10/04 10:51:04] Find pkexec at </usr/bin/pkexec>
+[2025/10/04 10:51:04] create environment param 43
+[2025/10/04 10:51:04] =========PKEXEC ARGS BEGIN===========
+[2025/10/04 10:51:04] argv[0]=</usr/bin/pkexec>
+[2025/10/04 10:51:04] argv[1]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:51:04] argv[2]=<_vtoy_env_str_=POWERSHELL_TELEMETRY_OPTOUT=1
+LANGUAGE=pt_BR:pt:en
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+USER=dex
+XDG_SEAT=seat0
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+XDG_SESSION_TYPE=x11
+SSH_AGENT_PID=1797
+SHLVL=0
+XDG_CACHE_HOME=/home/dex/.cache
+HOME=/home/dex
+OLDPWD=/home/dex
+DESKTOP_SESSION=xfce
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+NMAP_PRIVILEGED=
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+QT_QPA_PLATFORMTHEME=qt5ct
+LOGNAME=dex
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+_=/usr/bin/ssh-agent
+XDG_SESSION_CLASS=user
+XDG_SESSION_ID=3
+PATH=/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin
+GTK3_MODULES=xapp-gtk3-module
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_MENU_PREFIX=xfce-
+LANG=pt_BR.UTF-8
+POWERSHELL_UPDATECHECK=Off
+XDG_CURRENT_DESKTOP=XFCE
+XAUTHORITY=/tmp/xauth_wPdGuU
+XDG_SESSION_DESKTOP=XFCE
+XDG_CONFIG_HOME=/home/dex/.config
+SSH_AUTH_SOCK=/tmp/ssh-sFy8LpGCTjmZ/agent.1743
+SHELL=/usr/bin/zsh
+QT_ACCESSIBILITY=1
+XDG_VTNR=2
+PWD=/home/dex
+XDG_DATA_DIRS=/usr/share/xfce4:/home/dex/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share
+XDG_CONFIG_DIRS=/etc/xdg/xdg-kali-purple:/etc/xdg::/etc/xdg
+SESSION_MANAGER=local/Aqua:@/tmp/.ICE-unix/1743,unix/Aqua:/tmp/.ICE-unix/1743
+DISPLAY=:0.0
+>
+[2025/10/04 10:51:04] argv[3]=<_vtoy_gui_path_=/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:51:04] =========PKEXEC ARGS END===========
+[2025/10/04 10:51:07] 
+[2025/10/04 10:51:07] =========================================================
+[2025/10/04 10:51:07] =========================================================
+[2025/10/04 10:51:07] =============== VentoyGui x86_64 ===============
+[2025/10/04 10:51:07] =========================================================
+[2025/10/04 10:51:07] =========================================================
+[2025/10/04 10:51:07] log file is <log.txt>
+[2025/10/04 10:51:07] pid:3462 ppid:1902 uid:0 euid:0
+[2025/10/04 10:51:07] adjust dir:0  current path:/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07
+[2025/10/04 10:51:07] =========RAW ARGS BEGIN===========
+[2025/10/04 10:51:07] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/VentoyGUI.x86_64>
+[2025/10/04 10:51:07] argv[1]=<_vtoy_env_str_=POWERSHELL_TELEMETRY_OPTOUT=1
+LANGUAGE=pt_BR:pt:en
+PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+USER=dex
+XDG_SEAT=seat0
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+XDG_SESSION_TYPE=x11
+SSH_AGENT_PID=1797
+SHLVL=0
+XDG_CACHE_HOME=/home/dex/.cache
+HOME=/home/dex
+OLDPWD=/home/dex
+DESKTOP_SESSION=xfce
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+NMAP_PRIVILEGED=
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+QT_QPA_PLATFORMTHEME=qt5ct
+LOGNAME=dex
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+_=/usr/bin/ssh-agent
+XDG_SESSION_CLASS=user
+XDG_SESSION_ID=3
+PATH=/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/snap/bin
+GTK3_MODULES=xapp-gtk3-module
+XDG_RUNTIME_DIR=/run/user/1000
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+XDG_MENU_PREFIX=xfce-
+LANG=pt_BR.UTF-8
+POWERSHELL_UPDATECHECK=Off
+XDG_CURRENT_DESKTOP=XFCE
+XAUTHORITY=/tmp/xauth_wPdGuU
+XDG_SESSION_DESKTOP=XFCE
+XDG_CONFIG_HOME=/home/dex/.config
+SSH_AUTH_SOCK=/tmp/ssh-sFy8LpGCTjmZ/agent.1743
+SHELL=/usr/bin/zsh
+QT_ACCESSIBILITY=1
+XDG_VTNR=2
+PWD=/home/dex
+XDG_DATA_DIRS=/usr/share/xfce4:/home/dex/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share
+XDG_CONFIG_DIRS=/etc/xdg/xdg-kali-purple:/etc/xdg::/etc/xdg
+SESSION_MANAGER=local/Aqua:@/tmp/.ICE-unix/1743,unix/Aqua:/tmp/.ICE-unix/1743
+DISPLAY=:0.0
+>
+[2025/10/04 10:51:07] argv[2]=<_vtoy_gui_path_=/home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:51:07] =========RAW ARGS END===========
+[2025/10/04 10:51:07] recover environ 43 43
+[2025/10/04 10:51:07] recover success, argc=1 evecve </home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:51:07] =========EXECVE ARGS BEGIN===========
+[2025/10/04 10:51:07] argv[0]=</home/dex/Documentos/GitHub/Great-penguin/Downloads/Multiboot, Isos and Tools/Ventoy Linux & Win/ventoy-1.1.07/tool/x86_64/Ventoy2Disk.gtk3>
+[2025/10/04 10:51:07] =========EXECVE ARGS END===========
+[2025/10/04 10:51:08] ================================================
+[2025/10/04 10:51:08] ===== Ventoy2Disk 1.1.07 powered by GTK3.x =====
+[2025/10/04 10:51:08] ================================================
+[2025/10/04 10:51:08] log file is <log.txt> lastsize:60049
+[2025/10/04 10:51:08] ini file is <./Ventoy2Disk.ini>
+[2025/10/04 10:51:08] ventoy_disk_enumerate_all
+[2025/10/04 10:51:08] get disk info nvme0n1
+[2025/10/04 10:51:08] is 4k native disk <nvme0n1> <0>
+[2025/10/04 10:51:08] get disk size from sysfs for nvme0n1
+[2025/10/04 10:51:08] /sys/block/nvme0n1/device/vendor not exist 
+[2025/10/04 10:51:08] ventoy_get_vtoy_data /dev/nvme0n1
+[2025/10/04 10:51:08] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:51:08] disk:</dev/nvme0n1 259:0> model:< XPG GAMMIX S11 Pro (nvme)> size:256060514304 (256 GB)
+[2025/10/04 10:51:08] /dev/nvme0n1 NO Ventoy detected
+[2025/10/04 10:51:08] get disk info sdb
+[2025/10/04 10:51:08] is 4k native disk <sdb> <0>
+[2025/10/04 10:51:08] get disk size from sysfs for sdb
+[2025/10/04 10:51:08] ventoy_get_vtoy_data /dev/sdb
+[2025/10/04 10:51:08] Invalid efi part2 name <>
+[2025/10/04 10:51:08] disk:</dev/sdb 8:16> model:<ATA KINGSTON SA400S3 (scsi)> size:480103981056 (480 GB)
+[2025/10/04 10:51:08] /dev/sdb NO Ventoy detected
+[2025/10/04 10:51:08] get disk info sdc
+[2025/10/04 10:51:08] is 4k native disk <sdc> <0>
+[2025/10/04 10:51:08] get disk size from sysfs for sdc
+[2025/10/04 10:51:08] ventoy_get_vtoy_data /dev/sdc
+[2025/10/04 10:51:08] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:51:08] disk:</dev/sdc 8:32> model:<SanDisk Cruzer Blade (USB)> size:126079198208 (128 GB)
+[2025/10/04 10:51:08] /dev/sdc NO Ventoy detected
+[2025/10/04 10:51:08] get disk info sda
+[2025/10/04 10:51:08] is 4k native disk <sda> <0>
+[2025/10/04 10:51:08] get disk size from sysfs for sda
+[2025/10/04 10:51:08] ventoy_get_vtoy_data /dev/sda
+[2025/10/04 10:51:08] NO ventoy efi part layout <0 0>
+[2025/10/04 10:51:08] disk:</dev/sda 8:0> model:<ATA ST500DM002-1BD14 (scsi)> size:500107862016 (512 GB)
+[2025/10/04 10:51:08] /dev/sda NO Ventoy detected
+[2025/10/04 10:51:08] ============= DISK DUMP ============
+[2025/10/04 10:51:08] /dev/sdc [128 GB] SanDisk Cruzer Blade (USB)	Ventoy: NA
+[2025/10/04 10:51:08] /dev/nvme0n1 [256 GB]  XPG GAMMIX S11 Pro (nvme)	Ventoy: NA
+[2025/10/04 10:51:08] /dev/sda [512 GB] ATA ST500DM002-1BD14 (scsi)	Ventoy: NA
+[2025/10/04 10:51:08] /dev/sdb [480 GB] ATA KINGSTON SA400S3 (scsi)	Ventoy: NA
+[2025/10/04 10:51:08] on_init_window ...
+[2025/10/04 10:51:08] load_languages ...
+[2025/10/04 10:51:08] current language <English (English)>
+[2025/10/04 10:51:08] fill_dev_list total disk: 4 showall:0
+[2025/10/04 10:51:08] combox count:1, active:sdc id:0
+[2025/10/04 10:51:14] install_thread ...
+[2025/10/04 10:51:14] ==================================================================================
+[2025/10/04 10:51:14] ===== ventoy install /dev/sdc style:MBR secureboot:1 align4K:1 reserve:0 =========
+[2025/10/04 10:51:14] ==================================================================================
+[2025/10/04 10:51:14] /dev/sdc mounted </dev/sdc /run/media/dex/CCCOMA_X64FRE_PT-BR_DV9 udf ro,nosuid,nodev,relatime,uid=1000,gid=1000,iocharset=utf8 0 0
+>
+[2025/10/04 10:51:14] disk is mounted, now try to unmount it ...
+[2025/10/04 10:51:14] umount </dev/sdc> </run/media/dex/CCCOMA_X64FRE_PT-BR_DV9> [ success ]
+[2025/10/04 10:51:14] disk is not mounted now, we can do the install ...
+[2025/10/04 10:51:14] start install thread SanDisk Cruzer Blade (USB) ...
+[2025/10/04 10:51:14] func handler install <{ "result" : "success" }>
+[2025/10/04 10:51:14] ventoy_install_thread run ...
+[2025/10/04 10:51:14] check disk sdc
+[2025/10/04 10:51:14] set percent 1
+[2025/10/04 10:51:14] disk is not mounted now, we can do continue ...
+[2025/10/04 10:51:14] ventoy_clean_disk fd:6 size:126079198208
+[2025/10/04 10:51:14] write disk at off:0 writelen:65536 datalen:65536
+[2025/10/04 10:51:14] write disk at off:126079132672 writelen:65536 datalen:65536
+[2025/10/04 10:51:14] read core.img.xz rc:0 len:455184
+[2025/10/04 10:51:14] ventoy_unxz_stg1_img len:455184 rc:0
+[2025/10/04 10:51:14] set percent 8
+[2025/10/04 10:51:14] read disk.img.xz rc:0 len:13458404
+[2025/10/04 10:51:14] set percent 11
+[2025/10/04 10:51:14] set percent 16
+[2025/10/04 10:51:14] set percent 20
+[2025/10/04 10:51:14] set percent 29
+[2025/10/04 10:51:14] set percent 35
+[2025/10/04 10:51:14] set percent 40
+[2025/10/04 10:51:14] set percent 46
+[2025/10/04 10:51:14] set percent 54
+[2025/10/04 10:51:14] ventoy_unxz_efipart_img len:13458404 rc:0 unxzlen:33554432
+[2025/10/04 10:51:14] Fill MBR part table
+[2025/10/04 10:51:14] Disk signature: 0xb053b488
+[2025/10/04 10:51:14] Disk need to align with 4KB 2
+[2025/10/04 10:51:14] ReservedSector: 2
+[2025/10/04 10:51:14] Part1StartSector:2048 Part1SectorCount:246180848 Part2StartSector:246182896
+[2025/10/04 10:51:14] Formatting part1 exFAT /dev/sdc ...
+[0125/10/04 10:51:14] Creating... 
+[0125/10/04 10:51:14] Flushing... 
+[2025/10/04 10:51:14] set percent 61
+[2025/10/04 10:51:14] set percent 61
+[2025/10/04 10:51:14] set percent 61
+[2025/10/04 10:51:14] Formatting part2 EFI ...
+[2025/10/04 10:51:14] Formatting part2 EFI offset:126045642752 ...
+[2025/10/04 10:51:14] VentoyProcSecureBoot 1 ...
+[2025/10/04 10:51:14] Secure boot is enabled ...
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] write disk writelen:1048576 datalen:1048576 [ success ]
+[2025/10/04 10:51:14] Writing legacy grub ...
+[2025/10/04 10:51:14] Write MBR stage1 ...
+[2025/10/04 10:51:14] lseek offset:512(512) writelen:1048064(1048064)
+[2025/10/04 10:51:14] fsync data1...
+[2025/10/04 10:51:14] set percent 80
+[2025/10/04 10:51:14] set percent 80
+[2025/10/04 10:51:14] set percent 80
+[2025/10/04 10:51:14] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:15] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] set percent 80
+[2025/10/04 10:51:16] Checking part2 efi data /dev/sdc ...
+[2025/10/04 10:51:16] set percent 82
+[2025/10/04 10:51:16] set percent 82
+[2025/10/04 10:51:16] set percent 82
+[2025/10/04 10:51:16] set percent 82
+[2025/10/04 10:51:16] set percent 83
+[2025/10/04 10:51:16] set percent 83
+[2025/10/04 10:51:16] set percent 85
+[2025/10/04 10:51:16] set percent 85
+[2025/10/04 10:51:16] set percent 85
+[2025/10/04 10:51:17] set percent 87
+[2025/10/04 10:51:17] set percent 87
+[2025/10/04 10:51:17] set percent 88
+[2025/10/04 10:51:17] set percent 88
+[2025/10/04 10:51:17] set percent 88
+[2025/10/04 10:51:17] set percent 90
+[2025/10/04 10:51:17] set percent 90
+[2025/10/04 10:51:17] set percent 90
+[2025/10/04 10:51:17] set percent 91
+[2025/10/04 10:51:17] set percent 91
+[2025/10/04 10:51:17] set percent 93
+[2025/10/04 10:51:17] set percent 93
+[2025/10/04 10:51:17] efi part data check success
+[2025/10/04 10:51:17] Writting Partition Table style:0...
+[2025/10/04 10:51:17] Writting MBR Partition Table 0 512
+[2025/10/04 10:51:17] fsync data2...
+[2025/10/04 10:51:17] set percent 98
+[2025/10/04 10:51:17] ====================================
+[2025/10/04 10:51:17] ====== ventoy install success ======
+[2025/10/04 10:51:17] ====================================
+[2025/10/04 10:51:17] set percent 100
+[2025/10/04 10:51:17] ventoy_disk_enumerate_all
+[2025/10/04 10:51:17] get disk info nvme0n1
+[2025/10/04 10:51:17] is 4k native disk <nvme0n1> <0>
+[2025/10/04 10:51:17] get disk size from sysfs for nvme0n1
+[2025/10/04 10:51:17] /sys/block/nvme0n1/device/vendor not exist 
+[2025/10/04 10:51:17] ventoy_get_vtoy_data /dev/nvme0n1
+[2025/10/04 10:51:17] Invalid mbr magic 0x0 0x0
+[2025/10/04 10:51:17] disk:</dev/nvme0n1 259:0> model:< XPG GAMMIX S11 Pro (nvme)> size:256060514304 (256 GB)
+[2025/10/04 10:51:17] /dev/nvme0n1 NO Ventoy detected
+[2025/10/04 10:51:17] get disk info sdb
+[2025/10/04 10:51:17] is 4k native disk <sdb> <0>
+[2025/10/04 10:51:17] get disk size from sysfs for sdb
+[2025/10/04 10:51:17] ventoy_get_vtoy_data /dev/sdb
+[2025/10/04 10:51:17] Invalid efi part2 name <>
+[2025/10/04 10:51:17] disk:</dev/sdb 8:16> model:<ATA KINGSTON SA400S3 (scsi)> size:480103981056 (480 GB)
+[2025/10/04 10:51:17] /dev/sdb NO Ventoy detected
+[2025/10/04 10:51:17] get disk info sdc
+[2025/10/04 10:51:17] is 4k native disk <sdc> <0>
+[2025/10/04 10:51:17] get disk size from sysfs for sdc
+[2025/10/04 10:51:17] ventoy_get_vtoy_data /dev/sdc
+[2025/10/04 10:51:17] ventoy partition layout check OK: [2048 246180848] [246182896 65536]
+[2025/10/04 10:51:17] now check secure boot for /dev/sdc ...
+[2025/10/04 10:51:17] /EFI/BOOT/grubx64_real.efi find, secure boot in enabled
+[2025/10/04 10:51:17] disk:</dev/sdc 8:32> model:<SanDisk Cruzer Blade (USB)> size:126079198208 (128 GB)
+[2025/10/04 10:51:17] /dev/sdc Ventoy:<1.1.07> MBR secureboot:1 preserve:1024
+[2025/10/04 10:51:17] get disk info sda
+[2025/10/04 10:51:17] is 4k native disk <sda> <0>
+[2025/10/04 10:51:17] get disk size from sysfs for sda
+[2025/10/04 10:51:17] ventoy_get_vtoy_data /dev/sda
+[2025/10/04 10:51:17] NO ventoy efi part layout <0 0>
+[2025/10/04 10:51:17] disk:</dev/sda 8:0> model:<ATA ST500DM002-1BD14 (scsi)> size:500107862016 (512 GB)
+[2025/10/04 10:51:17] /dev/sda NO Ventoy detected
+[2025/10/04 10:51:19] set percent 0
+[2025/10/04 10:51:19] fill_dev_list total disk: 4 showall:0
+[2025/10/04 10:51:19] combox count:1, active:sdc id:0
+[2025/10/04 10:51:21] on_exit_window ...
+[2025/10/04 10:51:21] ######## Ventoy2Disk GTK 1.1.07 exit ########

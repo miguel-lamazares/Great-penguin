@@ -5,13 +5,13 @@
 </div>
 
 <div align="center" id="flags">
-    <a href="En/EN.md">
+    <a href="English/EN.md">
         <img width="80" height="60" src="imgs/USA.png" alt="English">
     </a>
-    <a href="Br/BR.md">
+    <a href="Portugues/BR.md">
         <img width="80" height="60" src="imgs/Brasil.png" alt="Português">
     </a>
-    <a href="Es/ES.md">
+    <a href="Espanol/ES.md">
         <img width="80" height="60" src="imgs/Spain.svg" alt="Español">
     </a>
 </div>
