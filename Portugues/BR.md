@@ -73,7 +73,7 @@
 </div>
 
 
-<h2 align="center"> Coisas Úteis e Legais 🐚 </h2>
+<h2 align="center"> Coisas Úteis e Legais 👘 </h2>
 
 <div align = "center">
 <table>
