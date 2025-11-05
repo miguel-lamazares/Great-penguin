@@ -1,4 +1,4 @@
-# Terminal 🖥️
+<H2 align="center"> Terminal 🖥️ </h2>
 
 <div align = "center">
 <table>
