@@ -49,7 +49,7 @@
 </table>
 </div>
 
-# Linux 🐧
+<h2 align="center"> Linux 🐧 </h2>
 
 <div align = "center">
 <table>
@@ -73,7 +73,7 @@
 </div>
 
 
-# Coisas Úteis e Legais 🐚
+<h2 align="center"> Coisas Úteis e Legais 🐚 </h2>
 
 <div align = "center">
 <table>
@@ -110,7 +110,7 @@
 </table>
 </div>
 
-# Ferramentas de reparo 🔨
+<h2 align="center"> Ferramentas de reparo 🔨 </h2>
 
 <div align = "center">
 <table>
@@ -153,7 +153,7 @@
 </table>
 </div>
 
-# Github 🐙
+<h2 align="center"> Github 🐙 </h>
 
 <div align = "center">
 <table>
@@ -183,7 +183,7 @@
 </table>
 </div>
 
-# Images 🖼️
+<h2 align="center"> Images 🖼️ </h2>
 
 <div align = "center">
 <table>
