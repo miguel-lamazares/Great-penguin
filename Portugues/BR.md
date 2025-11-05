@@ -113,7 +113,7 @@
 <h2 align="center"> Ferramentas de reparo 🔨 </h2>
 
 <div align = "center">
-<table>
+<table align="center">
 <tr>
 <td id="Ventoy" align = "center">
 <a href="tools/Ventoy.md">
