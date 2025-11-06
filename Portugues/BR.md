@@ -122,24 +122,17 @@
                 </a>
             </td>
 
-            <td id="OS Isos">
+        <td id="OS Isos">
                 <a href="Util/OSIsos.md">
                     <img width="50" src="/imgs/OSIsos.png" alt="OS Isos logo"><br>
                     <b>OS Isos</b>
                 </a>
-            </td>
+        </td>
 
             <td id="Tool Isos">
-                <a href="Util/Git.md">
+                <a href="Util/Isostool.md">
                     <img width="50" src="/imgs/ToolIsos.png" alt="Tool Isos logo"><br>
                     <b>Tool Isos</b>
-                </a>
-            </td>
-
-            <td id="Win Tools">
-                <a href="tools/WinTools.md">
-                    <img width="50" src="/imgs/Wintools.png" alt="Win Tools logo"><br>
-                    <b>Win Tools</b>
                 </a>
             </td>
 
