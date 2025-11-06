@@ -1,42 +1,42 @@
 <H2 align="center"> Terminal 🖥️ </h2>
 
-<div align = "center">
+<div>
 
-<td id="fastfetch" align = "center">
+<div id="fastfetch">
 <a href="Terminal/Fast.md">
 <img width="50" src="/imgs/Fast.png" alt="Fast logo"><br>
 <b>FastFetch</b>
 </a>
-</td>
+</div>
 
     
-<td id="jp2a">
+<div id="jp2a">
 <a href="Terminal/Jp2a.md">
 <img width="50" src="/imgs/jp2a.png" alt="jp2a logo"><br>
 <b>JP2A</b>
 </a>
-</td>
+</div>
     
-<td id="Kitty">
+<div id="Kitty">
 <a href="Terminal/Kitty.md">
 <img width="50" src="/imgs/kitty.svg"><br>
 <b>Kitty</b>
 </a>
-</td>
+</div>
 
-<td id="zsh">
+<div id="zsh">
 <a href="Terminal/ZSH.md">
 <img width="50" src="/imgs/ZSH.png"><br>
 <b>ZSH</b>
 </a>
-</td>
+</div>
 
-<td id="Starship">
+<div id="Starship">
 <a href="Terminal/Star.md">
 <img width="50" src="/imgs/Star.png"><br>
 <b>Starship</b>
 </a>
-</td>
+</div>
 
 <div id="atuin">
 <a href="Terminal/Atuin.md">
@@ -49,7 +49,7 @@
 
 <h2 align="center"> Linux 🐧 </h2>
 
-<div align = "center">
+<div>
 
 
 <div id="smmd">
@@ -70,9 +70,9 @@
 
 <h2 align="center"> Coisas Úteis e Legais 👘 </h2>
 
-<div align = "center">
+<div>
 
-<div id="spicetify" align = "center">
+<div id="spicetify">
 <a href="Util/Spi.md">
 <img width="50" src="/imgs/Spi.png" alt="Spi logo"><br>
 <b>Spicetify</b>
@@ -104,10 +104,10 @@
 
 <h2 align="center"> Ferramentas de reparo 🔨 </h2>
 
-<div align = "center">
+<div>
 <table align="center">
 <tr>
-<div id="Ventoy" align = "center">
+<div id="Ventoy">
 <a href="tools/Ventoy.md">
 <img width="50" src="/imgs/Ventoy.png" alt="Ventoy logo"><br>
 <b>Ventoy</b>
@@ -145,23 +145,23 @@
 
 <h2 align="center"> Github 🐙 </h>
 
-<div align = "center">
+<div>
 
-<div id="skill" align = "center">
+<div id="skill">
 <a href="Util/skill.md">
 <img width="50" src="/imgs/aya.jpg" alt="skill"><br>
 <b>Skill icons</b>
 </a>
 </div>
 
-<div id="auto-gif" align = "center">
+<div id="auto-gif">
 <a href="Util/auto.md">
 <img width="50" src="/imgs/robot.svg" alt="auto-gif"><br>
 <b>Auto-gif</b>
 </a>
 </div>
 
-<div id="readme" align = "center">
+<div id="readme">
 <a href="Util/read.md">
 <img width="50" src="/imgs/ast.gif" alt="readme"><br>
 <b>Readme</b>
@@ -172,23 +172,23 @@
 
 <h2 align="center"> Images 🖼️ </h2>
 
-<div align = "center">
+<div>
 
-<div id="mobile" align = "center">
+<div id="mobile">
 <a href="/imgs/photos/wallpapers">
 <img width="50" src="/imgs/Wall.jpeg" alt="Mobile Wallpapers"><br>
 <b>Mobile Wallpapers</b>
 </a>
 </div>
 
-<div id="icons" align = "center">
+<div id="icons">
 <a href="/imgs/photos/icons">
 <img width="50" src="/imgs/icon.jpg" alt="icons"><br>
 <b>Icons</b>
 </a>
 </div>
 
-<div id="gifs" align = "center">
+<div id="gifs">
 <a href="/imgs/gif/">
 <img width="50" src="/imgs/gif.gif" alt="gifs"><br>
 <b>Gifs</b>
