@@ -1,6 +1,6 @@
 <h2 align="center">Terminal 🖥️</h2>
 
-<div align="center">
+<div align="center" >
 
   <div style="display:inline-block; margin: 10px;">
     <a href="Terminal/Fast.md">
@@ -11,7 +11,7 @@
 
   <div style="display:inline-block; margin: 10px;">
     <a href="Terminal/Jp2a.md">
-      <img width="80" src="/imgs/jp2a.png" alt="jp2a logo"><br>
+      <img src="/imgs/jp2a.png" width="80" alt="jp2a logo"><br>
       <b>JP2A</b>
     </a>
   </div>
