@@ -10,42 +10,42 @@
                 </a>
             </td>
 
-            <td id="jp2a">
+<td id="jp2a">
                 <a href="Terminal/Jp2a.md">
                     <img width="50" src="/imgs/jp2a.png" alt="jp2a logo"><br>
                     <b>JP2A</b>
                 </a>
             </td>
 
-            <td id="Kitty">
+<td id="Kitty">
                 <a href="Terminal/Kitty.md">
                     <img width="50" src="/imgs/kitty.svg"><br>
                     <b>Kitty</b>
                 </a>
             </td>
 
-            <td id="zsh">
+<td id="zsh">
                 <a href="Terminal/ZSH.md">
                     <img width="50" src="/imgs/ZSH.png"><br>
                     <b>ZSH</b>
                 </a>
             </td>
 
-            <td id="Starship">
+<td id="Starship">
                 <a href="Terminal/Star.md">
                     <img width="50" src="/imgs/Star.png"><br>
                     <b>Starship</b>
                 </a>
             </td>
 
-            <td id="atuin">
+ <td id="atuin">
                 <a href="Terminal/Atuin.md">
                     <img width="50" src="/imgs/Atuin.png"><br>
                     <b>Atuin</b>
                 </a>
             </td>
 
-        </tr>
+ </tr>
     </table>
 </div>
 
@@ -55,19 +55,19 @@
     <table>
         <tr>
 
-            <td id="smmd">
+ <td id="smmd">
                 <a href="Util/smmd.md">
                     <img width="50" src="/imgs/smmd.png"><br>
                     <b>Atuin</b>
                 </a>
 
-            <td id="wine">
+  <td id="wine">
                 <a href="Util/wine.md">
                     <img width="50" src="/imgs/wine.png"><br>
                     <b>Windox</b>
                 </a>
 
-            </td>
+  </td>
         </tr>
     </table>
 </div>
@@ -85,28 +85,28 @@
                 </a>
             </td>
 
-            <td id="git">
+  <td id="git">
                 <a href="Util/Git.md">
                     <img width="50" src="/imgs/Git.png" alt="git logo"><br>
                     <b>Git Hub Desktop Linux</b>
                 </a>
             </td>
 
-            <td id="gimp">
+<td id="gimp">
                 <a href="Util/Git.md">
                     <img width="50" src="/imgs/Gimp.png" alt="gimp logo"><br>
                     <b>GIMP</b>
                 </a>
             </td>
 
-            <td id="qbittorrent">
+ <td id="qbittorrent">
                 <a href="Util/qbittorrent.md">
                     <img width="50" src="/imgs/qbittorrent.png" alt="qbittorrent logo"><br>
                     <b>qBittorrent</b>
                 </a>
             </td>
 
-        </tr>
+</tr>
     </table>
 </div>
 
@@ -122,33 +122,33 @@
                 </a>
             </td>
 
-        <td id="OS Isos">
+<td id="OS Isos">
                 <a href="Util/OSIsos.md">
                     <img width="50" src="/imgs/OSIsos.png" alt="OS Isos logo"><br>
                     <b>OS Isos</b>
                 </a>
         </td>
 
-            <td id="Tool Isos">
+<td id="Tool Isos">
                 <a href="Util/Isostool.md">
                     <img width="50" src="/imgs/ToolIsos.png" alt="Tool Isos logo"><br>
                     <b>Tool Isos</b>
                 </a>
             </td>
 
-            <td id="gparted">
+ <td id="gparted">
                 <a href="Tools/gparted.md">
                     <img width="50" src="/imgs/gparted.png"><br>
                     <b>GParted</b>
                 </a>
 
-        </tr>
+  </tr>
     </table>
 </div>
 
 <h2 align="center"> Github 🐙 </h>
 
-    <div align="center">
+  <div align="center">
         <table>
             <tr>
                 <td id="skill" align="center">
@@ -158,27 +158,27 @@
                     </a>
                 </td>
 
-                <td id="auto-gif" align="center">
+ <td id="auto-gif" align="center">
                     <a href="Util/auto.md">
                         <img width="50" src="/imgs/robot.svg" alt="auto-gif"><br>
                         <b>Auto-gif</b>
                     </a>
                 </td>
 
-                <td id="readme" align="center">
+<td id="readme" align="center">
                     <a href="Util/read.md">
                         <img width="50" src="/imgs/ast.gif" alt="readme"><br>
                         <b>Readme</b>
                     </a>
                 </td>
 
-            </tr>
+</tr>
         </table>
     </div>
 
-    <h2 align="center"> Images 🖼️ </h2>
+<h2 align="center"> Images 🖼️ </h2>
 
-    <div align="center">
+<div align="center">
         <table>
             <tr>
                 <td id="mobile" align="center">
@@ -188,14 +188,14 @@
                     </a>
                 </td>
 
-                <td id="icons" align="center">
+<td id="icons" align="center">
                     <a href="/imgs/photos/icons">
                         <img width="50" src="/imgs/icon.jpg" alt="icons"><br>
                         <b>Icons</b>
                     </a>
                 </td>
 
-                <td id="gifs" align="center">
+  <td id="gifs" align="center">
                     <a href="/imgs/gif/">
                         <img width="50" src="/imgs/gif.gif" alt="gifs"><br>
                         <b>Gifs</b>
@@ -203,6 +203,6 @@
                 </td>
 
 
-            </tr>
+ </tr>
         </table>
     </div>
