@@ -50,6 +50,6 @@ O SMMD oferece uma alternativa segura e customizável aos display managers tradi
 
 <a href="https://github.com/smmd-project/smmd">GitHub 🐙</a> 
 <a href="https://smmd-project.org">Site Oficia 🌐l</a>
-<a href"https://forum.smmd-project.org">Fórum Oficial 💬</a>
+<a href="https://forum.smmd-project.org">Fórum Oficial 💬</a>
 <a href="https://github.com/smmd-themes">SMMD Themes 🎨 </a>
 <a href="https://forum.manjaro.org/c/display-managers">Linux Display Managers 🎨 </a>
