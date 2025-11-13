@@ -130,7 +130,7 @@
         </td>
 
 <td id="Tool Isos">
-                <a href="tools/Isostool.md">
+                <a href="tools/Isostools.md">
                     <img width="50" src="/imgs/ToolIsos.png" alt="Tool Isos logo"><br>
                     <b>Tool Isos</b>
                 </a>

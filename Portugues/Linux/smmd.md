@@ -25,8 +25,23 @@ sudo pacman -S smmd
 ```sudo systemctl enable sddm```
 ```sudo systemctl start sddm```
 
-## personalizar
+## Thema personalizado 
 
-sudo nano /etc/sddm.conf
+1. Adicione o tema desejado em ```/usr/share/smmd/themes/```
+2. apos o primeiro passo, apenas faca referencia ao tema em ``````sudo nano /etc/sddm.conf`````` 
 
-definir thema
+## Compatibilidade
+
+* GNOME
+
+* KDE Plasma
+
+* XFCE
+
+* LXQt
+
+* i3wm
+
+* Outros ambientes X11 e Wayland
+
+O SMMD oferece uma alternativa segura e customizável aos display managers tradicionais, com foco em segurança e controle granular sobre sessões de usuário.
