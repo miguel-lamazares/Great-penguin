@@ -209,7 +209,7 @@
 </td>
 
 <td id="gifs" align = "center">
-<a href="/Downloads/gif/">
+<a href="/Downloads/Img/gif/">
 <img width="50" src="/imgs/gif.gif" alt="gifs"><br>
 <b>Gifs</b>
 </a>
