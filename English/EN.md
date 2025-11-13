@@ -26,7 +26,7 @@
 
 <td id="zsh">
 <a href="Terminal/ZSH.md">
-<img width="50" src="/imgs/ZSH.jpeg"><br>
+<img width="50" src="/imgs/ZSH.png"><br>
 <b>ZSH</b>
 </a>
 </td>
@@ -62,13 +62,13 @@
 <tr>
 
 <td id="smmd">
-<a href="Terminal/smmd.md">
+<a href="Linux/smmd.md">
 <img width="50" src="/imgs/smmd.png"><br>
 <b>Atuin</b>
 </a>
 
 <td id="wine">
-<a href="Util/wine.md">
+<a href="Linux/wine.md">
 <img width="50" src="/imgs/wine.png"><br>
 <b>Windox</b>
 </a>
@@ -121,35 +121,29 @@
 <table>
 <tr>
 <td id="Ventoy" align = "center">
-<a href="tools/Ventoy.md">
+<a href="tools/ventoy.md">
 <img width="50" src="/imgs/Ventoy.png" alt="Ventoy logo"><br>
 <b>Ventoy</b>
 </a>
 </td>
     
 <td id="OS Isos">
-<a href="Util/OSIsos.md">
+<a href="tools/OSIsos.md">
 <img width="50" src="/imgs/OSIsos.png" alt="OS Isos logo"><br>
 <b>OS Isos</b>
 </a>
 </td>
 
 <td id="Tool Isos">
-<a href="Util/Git.md">
+<a href="tools/Isotools.md">
 <img width="50" src="/imgs/ToolIsos.png" alt="Tool Isos logo"><br>
 <b>Tool Isos</b>
 </a>
 </td>
 
-<td id="Win Tools">
-<a href="tools/WinTools.md">
-<img width="50" src="/imgs/Wintools.png" alt="Win Tools logo"><br>
-<b>Win Tools</b>
-</a>
-</td>
 
 <td id="gparted">
-<a href="Tools/gparted.md">
+<a href="tools/gparted.md">
 <img width="50" src="/imgs/gparted.png"><br>
 <b>GParted</b>
 </a>
@@ -164,21 +158,21 @@
 <table>
 <tr>
 <td id="skill" align = "center">
-<a href="Util/skill.md">
+<a href="Linux/skill.md">
 <img width="50" src="/imgs/aya.jpg" alt="skill"><br>
 <b>Skill icons</b>
 </a>
 </td>
 
 <td id="auto-gif" align = "center">
-<a href="Util/auto.md">
+<a href="Linux/auto.md">
 <img width="50" src="/imgs/robot.svg" alt="auto-gif"><br>
 <b>Auto-gif</b>
 </a>
 </td>
 
 <td id="readme" align = "center">
-<a href="Util/read.md">
+<a href="Linux/read.md">
 <img width="50" src="/imgs/ast.gif" alt="readme"><br>
 <b>Readme</b>
 </a>
@@ -194,21 +188,28 @@
 <table>
 <tr>
 <td id="mobile" align = "center">
-<a href="/imgs/photos/wallpapers">
+<a href="/Downloads/Img/photos/mobile wallpapers">
 <img width="50" src="/imgs/Wall.jpeg" alt="Mobile Wallpapers"><br>
 <b>Mobile Wallpapers</b>
 </a>
 </td>
 
+<td id="mobile" align="center">
+                    <a href="/Downloads/Img/photos/pc wallpapers/">
+                        <img width="50" src="/imgs/Wall2.jpeg" alt="Mobile Wallpapers"><br>
+                        <b>PC Wallpapers</b>
+                    </a>
+                </td>
+
 <td id="icons" align = "center">
-<a href="/imgs/photos/icons">
+<a href="/Downloads/Img/photos/icons/">
 <img width="50" src="/imgs/icon.jpg" alt="icons"><br>
 <b>Icons</b>
 </a>
 </td>
 
 <td id="gifs" align = "center">
-<a href="/imgs/gif/">
+<a href="/Downloads/gif/">
 <img width="50" src="/imgs/gif.gif" alt="gifs"><br>
 <b>Gifs</b>
 </a>
