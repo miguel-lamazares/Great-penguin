@@ -20,12 +20,12 @@ sudo pacman -S smmd
 
 #### Depois de finalizar a instalacao defina o smmd como ```defalt display manager``` no lugar do ```lightdm```.
 
-## tornado padrao
+## Torna-lo padrão do sistema 🏗️
 
 ```sudo systemctl enable sddm```
 ```sudo systemctl start sddm```
 
-## Thema personalizado 
+## Thema personalizado 🎨
 
 1. Adicione o tema desejado em ```/usr/share/smmd/themes/```
 2. apos o primeiro passo, apenas faca referencia ao tema em ``````sudo nano /etc/sddm.conf`````` 
