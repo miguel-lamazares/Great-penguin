@@ -196,7 +196,7 @@
 
 <td id="mobile" align="center">
                     <a href="/Downloads/Img/photos/pc wallpapers/">
-                        <img width="50" src="/imgs/Wall2.jpeg" alt="Mobile Wallpapers"><br>
+                        <img width="50" src="/imgs/Wall2.jpg" alt="Mobile Wallpapers"><br>
                         <b>PC Wallpapers</b>
                     </a>
                 </td>
