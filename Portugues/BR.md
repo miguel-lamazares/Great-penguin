@@ -138,7 +138,7 @@
         </td>
 
 <td id="Tool Isos">
-                <a href="tools/Isostools.md">
+                <a href="tools/Isotools.md">
                     <img width="50" src="/imgs/ToolIsos.png" alt="Tool Isos logo"><br>
                     <b>Tool Isos</b>
                 </a>
@@ -189,7 +189,7 @@
 <div align="center">
         <table>
             <tr>
-                <td id="mobile" align="center">
+<td id="mobile" align="center">
                     <a href="/Downloads/Img/photos/mobile wallpapers/">
                         <img width="50" src="/imgs/Wall.jpeg" alt="Mobile Wallpapers"><br>
                         <b>Mobile Wallpapers</b>
@@ -198,7 +198,7 @@
 
 <td id="mobile" align="center">
                     <a href="/Downloads/Img/photos/pc wallpapers/">
-                        <img width="50" src="/imgs/Wall2.jpg" alt="PC Wallpapers"><br>
+                        <img width="50" src="/imgs/Well2.jpg" alt="PC Wallpapers"><br>
                         <b>PC Wallpapers</b>
                     </a>
                 </td>
