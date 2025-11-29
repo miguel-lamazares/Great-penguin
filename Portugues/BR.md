@@ -71,7 +71,7 @@
 
 <td id="grub">
                 <a href="Linux/grub.md">
-                    <img width="50" src="/imgs/grub.png"><br>
+                    <img width="50" src="/imgs/Grub.png"><br>
                     <b>GRUB</b>
                 </a>
 
